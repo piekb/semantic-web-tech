@@ -22,9 +22,20 @@ def read_files():
 
     # tokenizing and writing sentences to correct file
     for i, d in enumerate(js):
-        f1.write(nltk.word_tokenize(d.get('sparql_query') + '\n'))
-        f2.write(nltk.word_tokenize(d.get('intermediary_question') + '\n'))
-        f3.write(nltk.word_tokenize(d.get('corrected_question') + '\n'))
+        s1 = nltk.word_tokenize(d.get('sparql_query'))
+        for s in s1:
+            f1.write(s + ' ')
+        f1.write('\n')
+
+        s2 = nltk.word_tokenize(d.get('intermediary_question'))
+        for s in s2:
+            f2.write(s + ' ')
+        f2.write('\n')
+
+        s3 = nltk.word_tokenize(d.get('corrected_question'))
+        for s in s3:
+            f3.write(s + ' ')
+        f3.write('\n')
 
     f1.close()
     f2.close()
@@ -32,7 +43,7 @@ def read_files():
 
 
 # Test...
-s = "Which city's foundeer is John Forbes?"
-print(nltk.word_tokenize(s))
+test = "Which city's foundeer is John Forbes?"
+print(nltk.word_tokenize(test))
 
 read_files()
