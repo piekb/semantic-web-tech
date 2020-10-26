@@ -8,3 +8,7 @@ pyrouge
 #git+git://github.com/NVIDIA/apex.git@700d6825e205732c1d6be511306ca4e595297070
 sentencepiece>=0.1.90
 subword-nmt>=0.3.7
+
+numpy~=1.19.2
+requests~=2.24.0
+nltk~=3.5
