@@ -5,4 +5,6 @@ Code for final project of Semantic Web Technology.
 https://opennmt.net/OpenNMT-py/
 
 ## data-prep
-Folder containing full training data file, a Python script to write the desired data to a specific file, and those three files. 
+Folder used for data preparation. 
+
+Run "python3 prep.py -arg", where -arg can be "train" or "test". The full train/test data will then be split into sparql, corrected, and intermediate train/test data files. 
