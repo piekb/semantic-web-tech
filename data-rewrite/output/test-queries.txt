@@ -1,0 +1,1000 @@
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct count_var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct count_var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct count_var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct count_var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct count_var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open blankword blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct count_var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct count_var_uri where brack_open blankword blankword var_x sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+ask where brack_open blankword blankword blankword brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot var_x blankword blankword brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_uri blankword var_x sep_dot var_uri blankword blankword brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
+select distinct var_uri where brack_open var_uri blankword blankword sep_dot var_uri blankword blankword sep_dot brack_close
+select distinct count_var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri brack_close
+select distinct var_uri where brack_open blankword blankword var_uri sep_dot blankword blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x blankword blankword sep_dot var_x blankword var_uri sep_dot brack_close
+select distinct var_uri where brack_open blankword blankword var_uri brack_close
