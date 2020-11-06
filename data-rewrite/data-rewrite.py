@@ -1,7 +1,7 @@
 import ast, re, os
 
 # Settings
-blank_word = "blankword"
+blank_word = "_blank_"
 input_folder = "input/"
 output_folder = "output/"
 file_names = ["train-full.txt", "test-full.txt"]
@@ -63,8 +63,14 @@ for n in file_names:
             elif w == "{?uri":
                 new_query_list.append("brack_open")
                 new_query_list.append("var_uri")
-            elif ":" in w:
-                new_query_list.append(blank_word)
+            elif "resource" in w:
+                new_query_list.append("db_resource")
+            elif "property" in w:
+                new_query_list.append("db_property")
+            elif "ontology" in w:
+                new_query_list.append("db_ontology")
+            elif "rdf" in w:
+                new_query_list.append("rdf")
             else:
                 print(f"[ERROR] Unknown query term:\t{w}")
         # Make sure each new_query_list always ends with a bracket
