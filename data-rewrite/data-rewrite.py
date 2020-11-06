@@ -27,7 +27,7 @@ for n in file_names:
         # Save named entities and replace them in original questions
         new_question = re.sub("<(.*?)>", blank_word, question)
         named_entities_list = re.findall("<(.*?)>", question)
-        named_entities = ", ".join(named_entities_list)
+        named_entities = "|".join(named_entities_list)
         
         # Structure new query based on terms found in original query
         new_query_list = []
