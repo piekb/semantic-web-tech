@@ -1,0 +1,1000 @@
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct count_var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open db_resource db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_property db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri db_property db_resource sep_dot var_uri db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open db_resource db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_property var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_property db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_property var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_x sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_x sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_property var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_property db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_x sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_property db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_property db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_property db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_property var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_uri db_property db_resource sep_dot var_uri db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_property db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct count_var_uri where brack_open var_x db_property db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open db_resource db_property var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_property db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_uri db_property db_resource sep_dot var_uri db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_property var_x sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct count_var_uri where brack_open db_resource db_ontology var_x sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+ask where brack_open db_resource db_ontology db_resource brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_uri db_ontology var_x sep_dot brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close
+select distinct var_uri where brack_open var_uri db_ontology db_resource sep_dot var_uri db_ontology db_resource sep_dot var_uri rdf db_ontology brack_close
+select distinct count_var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri sep_dot db_resource db_ontology var_uri sep_dot brack_close
+select distinct var_uri where brack_open var_x db_ontology db_resource sep_dot var_x db_ontology var_uri sep_dot var_x rdf db_ontology brack_close
+select distinct var_uri where brack_open db_resource db_ontology var_uri brack_close

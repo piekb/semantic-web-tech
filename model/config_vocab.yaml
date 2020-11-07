@@ -11,6 +11,3 @@ data:
     train:
         path_src: data/train-questions.txt
         path_tgt: data/train-queries.txt
-    valid:
-        path_src: data/test-questions.txt
-        path_tgt: data/test-queries.txt

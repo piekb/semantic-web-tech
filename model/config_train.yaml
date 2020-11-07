@@ -1,3 +1,17 @@
+## Where the samples will be written
+save_data: output
+## Where the vocab(s) will be written
+src_vocab: output/vocab.src
+tgt_vocab: output/vocab.tgt
+# Prevent overwriting existing files in the folder
+overwrite: False
+
+# Corpus opts:
+data:
+    train:
+        path_src: data/train-questions.txt
+        path_tgt: data/train-queries.txt
+
 # Vocabulary files that were just created
 src_vocab: output/vocab.src
 tgt_vocab: output/vocab.tgt
@@ -9,5 +23,4 @@ world_size: 1
 # Where to save the checkpoints
 save_model: output/model
 save_checkpoint_steps: 500
-train_steps: 1000
-valid_steps: 500
+train_steps: 2500

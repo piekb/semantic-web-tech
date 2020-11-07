@@ -3,7 +3,6 @@
 
 ### OpenNMT ###
 OpenNMT-py/
-*.pt
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
