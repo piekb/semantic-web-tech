@@ -24,7 +24,7 @@
         "_id": "1055", 
         "corrected_question": "What is the allegiance of John Kotelawala ?", 
         "intermediary_question": "What is the <allegiance> of John Kotelawala ?", 
-        "sparql_query": " SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_Kotelawala> <http://dbpedia.org/property/allegiance> ?uri } ", 
+        "sparql_query": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_Kotelawala> <http://dbpedia.org/property/allegiance> ?uri } ",
         "sparql_template_id": 2
     }, 
     {

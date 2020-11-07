@@ -23,12 +23,14 @@ for n in file_names:
         f_questions = open(output_folder + base_name + "-questions.txt", "a")
         f_named_entities = open(output_folder + base_name + "-named-entities.txt", "a")
         f_queries = open(output_folder + base_name + "-queries.txt", "a")
+        # corrected_queries is used for development of make_query.py
+        f_correct_queries = open(output_folder + base_name + "-correct-sparql.txt", "a")
 
         # Save named entities and replace them in original questions
         new_question = re.sub("<(.*?)>", blank_word, question)
         named_entities_list = re.findall("<(.*?)>", question)
-        named_entities = ", ".join(named_entities_list)
-        
+        named_entities = "|".join(named_entities_list)
+
         # Structure new query based on terms found in original query
         new_query_list = []
         for w in query.split(" "):
@@ -83,7 +85,9 @@ for n in file_names:
         f_questions.write(new_question + "\n")
         f_named_entities.write(named_entities + "\n")
         f_queries.write(new_query + "\n")
+        f_correct_queries.write(query + "\n")
 
     f_questions.close()
     f_named_entities.close()
     f_queries.close()
+    f_correct_queries.close()

@@ -1,1000 +1,1000 @@
-architect, Marine Corps Air Station Kaneohe Bay, tenant, New Sanno Hotel
-faith, political parties, international, Muslim Brotherhood
-developed by, Google Videos, written by, Google Web Toolkit
-known for, Sam Loyd, Eric Schiller
-Peter Piper Pizza, field of exercise, Pizza
-associated band, Joe Pass, Artist, Dream Dancing (album)
-office holder, deputies, Neil Brown (Australian politician), Andrew Peacock
-national origin, Focke-Wulf Fw 260, Start + Flug H-101
-television show, producer, Stephen E. Ambrose, writer, Erik Jendresen
-Artist, Women in the Garden, L'Enfant a la tasse
-race, War Of Attrition (horse), Fergie Sutherland
-television show, Artist, Christopher Franke, network, Prime Time Entertainment Network
-battles, military people, battles, World War II
-television shows, network, parent organisation, Comcast
-Colorado, placeofburial, William H. Blanchard
-kind of music, Battle Chess, sport, Vishwajyot High School
+architect|Marine Corps Air Station Kaneohe Bay|tenant|New Sanno Hotel
+faith|political parties|international|Muslim Brotherhood
+developed by|Google Videos|written by|Google Web Toolkit
+known for|Sam Loyd|Eric Schiller
+Peter Piper Pizza|field of exercise|Pizza
+associated band|Joe Pass|Artist|Dream Dancing (album)
+office holder|deputies|Neil Brown (Australian politician)|Andrew Peacock
+national origin|Focke-Wulf Fw 260|Start + Flug H-101
+television show|producer|Stephen E. Ambrose|writer|Erik Jendresen
+Artist|Women in the Garden|L'Enfant a la tasse
+race|War Of Attrition (horse)|Fergie Sutherland
+television show|Artist|Christopher Franke|network|Prime Time Entertainment Network
+battles|military people|battles|World War II
+television shows|network|parent organisation|Comcast
+Colorado|placeofburial|William H. Blanchard
+kind of music|Battle Chess|sport|Vishwajyot High School
 state
-missions, Apollo 11, Gemini 8
-tenant, stadia, tenant, Raptors 905
+missions|Apollo 11|Gemini 8
+tenant|stadia|tenant|Raptors 905
 Location
-stockholder, road tunnels, operator, Massachusetts Department of Transportation
-awards, person, film director, Saraband
-alma mater, owl, vice president, Enrique Jos Varona
+stockholder|road tunnels|operator|Massachusetts Department of Transportation
+awards|person|film director|Saraband
+alma mater|owl|vice president|Enrique Jos Varona
 route end
-origin, grapes, species, Vitis vinifera
-people, kids, deathplace, Indiana
-military branch, William French Smith, branch, Pierre R. Graham
-river, source, Lake Ontario
-location city, Denver Broncos, place of birth, Steven Clark Cunningham
-religion, person, founded, Emel (magazine)
-managerclubss, England national under-20 football team, England national under-21 football team
-cities, sea, lake inflows, Fig Tree Bay
-The Bahamas, archipelago, Blue Lagoon Island
-movie, distributed by, RKO Pictures, music composer, Bernard Herrmann
-One Israel, merged into party, New Way (Israel)
-pole driver, Grand Prixes, first driver, Damon Hill
-born in, jockey (horse racer)s, race, Dubai World Cup
-is owned by, newspaper, is founded by, Jawaharlal Nehru
-destinations, airlines, headquarters, United Kingdom
-magazine, founded by, Ralph J. Gleason
-Seattle, Ship builder, USS Marmora (IX-189)
-Tirana, largest city, Albania
-location city, beverage, related, Barq's
-birth place, astronaut, mission, Vostok programme
-people, studied at, campus, Suburb
+origin|grapes|species|Vitis vinifera
+people|kids|deathplace|Indiana
+military branch|William French Smith|branch|Pierre R. Graham
+river|source|Lake Ontario
+location city|Denver Broncos|place of birth|Steven Clark Cunningham
+religion|person|founded|Emel (magazine)
+managerclubss|England national under-20 football team|England national under-21 football team
+cities|sea|lake inflows|Fig Tree Bay
+The Bahamas|archipelago|Blue Lagoon Island
+movie|distributed by|RKO Pictures|music composer|Bernard Herrmann
+One Israel|merged into party|New Way (Israel)
+pole driver|Grand Prixes|first driver|Damon Hill
+born in|jockey (horse racer)s|race|Dubai World Cup
+is owned by|newspaper|is founded by|Jawaharlal Nehru
+destinations|airlines|headquarters|United Kingdom
+magazine|founded by|Ralph J. Gleason
+Seattle|Ship builder|USS Marmora (IX-189)
+Tirana|largest city|Albania
+location city|beverage|related|Barq's
+birth place|astronaut|mission|Vostok programme
+people|studied at|campus|Suburb
 debutteam
-major shrine, monarches, successor, Dragimir of Travunia and Zachlumia
-television shows, channel, Fox Broadcasting Company
-river, mouth locations, Arctic Ocean, Laptev Sea
-military conflicts, commander, primeminister, Chung Il-kwon
-place of birth, cleric, PLACE OF DEATH, Bryn Mawr Hospital
-faith, Ajith Perera, religious affiliation, Neungin High School
-military people, military unit, role, Air interdiction
+major shrine|monarches|successor|Dragimir of Travunia and Zachlumia
+television shows|channel|Fox Broadcasting Company
+river|mouth locations|Arctic Ocean|Laptev Sea
+military conflicts|commander|primeminister|Chung Il-kwon
+place of birth|cleric|PLACE OF DEATH|Bryn Mawr Hospital
+faith|Ajith Perera|religious affiliation|Neungin High School
+military people|military unit|role|Air interdiction
 current members
-Croatia, source mountain, Ombla
-person, home town, Greater Napanee
-PLACE OF DEATH, Edwin Adams (politician), POB, William A. Purtell
+Croatia|source mountain|Ombla
+person|home town|Greater Napanee
+PLACE OF DEATH|Edwin Adams (politician)|POB|William A. Purtell
 nationalteam
-designed by, RENFE Class 333, owned by, Renaissance Center
+designed by|RENFE Class 333|owned by|Renaissance Center
 university attended
-books, writers, notable work, Novelas ejemplares
-river, mouth place, Essex
-division, companies, foundation place, Taiwan
-Tim Gunn, Guests, Sunrise (How I Met Your Mother)
-university, Stanford Cardinal, institution, Gerald Reaven
+books|writers|notable work|Novelas ejemplares
+river|mouth place|Essex
+division|companies|foundation place|Taiwan
+Tim Gunn|Guests|Sunrise (How I Met Your Mother)
+university|Stanford Cardinal|institution|Gerald Reaven
 nearest city
 debutteam
 nearest city
 characters
-artists, training, San Francisco Art Institute
-owning organisation, Ford Kansas City Assembly Plant, builder, Ford Y-block engine
-country, currency, Aureus
+artists|training|San Francisco Art Institute
+owning organisation|Ford Kansas City Assembly Plant|builder|Ford Y-block engine
+country|currency|Aureus
 awards received
-television shows, network, sister station, Cartoonito
-software, developer, John Fanning (businessman)
-awarded, Muhammad Yunus
-associated acts, Bands, label, Motown
-writers, musical, composer, Emil  Dean  Zoghby
-military units, garrison, Arlington County, Virginia
+television shows|network|sister station|Cartoonito
+software|developer|John Fanning (businessman)
+awarded|Muhammad Yunus
+associated acts|Bands|label|Motown
+writers|musical|composer|Emil  Dean  Zoghby
+military units|garrison|Arlington County, Virginia
 faith
-person, relativess, Kelly Osbourne, Ozzy Osbourne
-houses, legislature, leader title, Pullaiahgaripalli
-serving railway line, Daund Junction railway station, Recorded, 99 (2009 film)
+person|relativess|Kelly Osbourne|Ozzy Osbourne
+houses|legislature|leader title|Pullaiahgaripalli
+serving railway line|Daund Junction railway station|Recorded|99 (2009 film)
 ethnicity
-television shows, company, subsidiary, Viacom Productions
-leaders, Giuseppe Bertello, Pietro Parolin
-university, campus, Mount Moosilauke
-faith, ethnic group, style of architecture, Sanggar Agung
-companies, programming language, C++
-garrison, Western Naval Command, line, Vadodara Junction railway station
-shareholder, soccer club, currentclub, Steve Holland (footballer)
-stadium, 201415 Panionios G.S.S. season, cities, Mediterranean Sea
-West Germany, Recorded, Don't Bring Me Down
-city, rivers, source place, Montauk State Park
-political ideology, political party, political party, Boonchu Rojanastien
+television shows|company|subsidiary|Viacom Productions
+leaders|Giuseppe Bertello|Pietro Parolin
+university|campus|Mount Moosilauke
+faith|ethnic group|style of architecture|Sanggar Agung
+companies|programming language|C++
+garrison|Western Naval Command|line|Vadodara Junction railway station
+shareholder|soccer club|currentclub|Steve Holland (footballer)
+stadium|201415 Panionios G.S.S. season|cities|Mediterranean Sea
+West Germany|Recorded|Don't Bring Me Down
+city|rivers|source place|Montauk State Park
+political ideology|political party|political party|Boonchu Rojanastien
 hubs
-movie, music, Geoffrey Burgon, distributor, Cinema International Corporation
-Politics, main interests, Henry David Thoreau
-company, key people, Dennis Muilenburg, products, Boeing CH-47 Chinook
-country, leader, Giuseppe Bertello
-writer, single, subsequent work, One Day at a Time (Em's Version)
-television shows, network, NBC, company, Paramount Television
-fictional character, voice, animator, Hardie Gramatky
-designed by, Language Integrated Query, license, MSX BASIC
-architect, stadia, architect, Louis D. Astorino
-astronauts, type, NASA
-ingredient, Blodpalt, Kaszanka
-person, partner, Rob Patterson
-leader name, city, city , Ganges
+movie|music|Geoffrey Burgon|distributor|Cinema International Corporation
+Politics|main interests|Henry David Thoreau
+company|key people|Dennis Muilenburg|products|Boeing CH-47 Chinook
+country|leader|Giuseppe Bertello
+writer|single|subsequent work|One Day at a Time (Em's Version)
+television shows|network|NBC|company|Paramount Television
+fictional character|voice|animator|Hardie Gramatky
+designed by|Language Integrated Query|license|MSX BASIC
+architect|stadia|architect|Louis D. Astorino
+astronauts|type|NASA
+ingredient|Blodpalt|Kaszanka
+person|partner|Rob Patterson
+leader name|city|city |Ganges
 tenants
-architect, Marine Corps Air Station Kaneohe Bay, branch, Burnet R. Maybank
-movies, screenplay, Akiva Goldsman
-television shows, related, artistic genre, Fantasy television
-commander, Battle of Fort Stephenson, Battle of the Thames
-developer, video games, composer, Gerard Marino
-sea, citiess, Rostock, Kaliningrad
-television show, developer, Brian Graden, voices, Isaac Hayes
-die from, owl, child, Stevens Thomson Mason (Virginia)
-Inland Empire, city-served, Ontario International Airport
-Semnani languages, Languages, Iran
-Nickname, owl, home stadium, Angels Toru
-television show, executive producer, Douglas Netter
-relation, person, relation, Jared Kushner
-doctoral students, scientists, doctoral students, John Bowlby
-series, book, previous work, Blade Runner 2: The Edge of Human
+architect|Marine Corps Air Station Kaneohe Bay|branch|Burnet R. Maybank
+movies|screenplay|Akiva Goldsman
+television shows|related|artistic genre|Fantasy television
+commander|Battle of Fort Stephenson|Battle of the Thames
+developer|video games|composer|Gerard Marino
+sea|citiess|Rostock|Kaliningrad
+television show|developer|Brian Graden|voices|Isaac Hayes
+die from|owl|child|Stevens Thomson Mason (Virginia)
+Inland Empire|city-served|Ontario International Airport
+Semnani languages|Languages|Iran
+Nickname|owl|home stadium|Angels Toru
+television show|executive producer|Douglas Netter
+relation|person|relation|Jared Kushner
+doctoral students|scientists|doctoral students|John Bowlby
+series|book|previous work|Blade Runner 2: The Edge of Human
 city 
 territory
-person, marriage partner, Daniel Gibson
-political party, office holder, has kid, Jawaharlal Nehru
-river, source, Shannon Pot, mouth location, Limerick
-organisation, purposes, Environmentalism, Peace
-name, Sports team members, name, Matt  Williams ( New  Zealand footballer)
-belongs to, race horses, awards, Timeform
-religious affiliation, office holders, profession, Diplomacy
-baseball teams, stockholder, co-founder, Guggenheim family
-John Muir, person that first ascented a mountain, Mount Hoffmann
-known for, medician, work institutions, Western Pennsylvania Hospital
-country, publisher, co-founder, Panos Ioannides
-first team, 1967 Mexican Grand Prix, is owned by, Dagenham wind turbines
-education, Sidney Catlin Partridge, alma mater, Lisa Brummel
-sport, schools, city, Kharghar
-ethnic group, Riley Reid, state of origin, Holmes Colbert
-John Boehner, incumbent, United States House of Representatives elections in Ohio, 2010
-american football Team, location city, O.co Coliseum
-non-fiction subject, books, publisher, Doubleday (publisher)
-founded, Congress of Industrial Organizations, city , Pittsburgh Steelers
-home town, office holder, official residence, Martha's Vineyard
-sea, cities, Kaliningrad, outflow, Danish straits
+person|marriage partner|Daniel Gibson
+political party|office holder|has kid|Jawaharlal Nehru
+river|source|Shannon Pot|mouth location|Limerick
+organisation|purposes|Environmentalism|Peace
+name|Sports team members|name|Matt  Williams ( New  Zealand footballer)
+belongs to|race horses|awards|Timeform
+religious affiliation|office holders|profession|Diplomacy
+baseball teams|stockholder|co-founder|Guggenheim family
+John Muir|person that first ascented a mountain|Mount Hoffmann
+known for|medician|work institutions|Western Pennsylvania Hospital
+country|publisher|co-founder|Panos Ioannides
+first team|1967 Mexican Grand Prix|is owned by|Dagenham wind turbines
+education|Sidney Catlin Partridge|alma mater|Lisa Brummel
+sport|schools|city|Kharghar
+ethnic group|Riley Reid|state of origin|Holmes Colbert
+John Boehner|incumbent|United States House of Representatives elections in Ohio, 2010
+american football Team|location city|O.co Coliseum
+non-fiction subject|books|publisher|Doubleday (publisher)
+founded|Congress of Industrial Organizations|city |Pittsburgh Steelers
+home town|office holder|official residence|Martha's Vineyard
+sea|cities|Kaliningrad|outflow|Danish straits
 team manager
-location city, american football Team, debut team, Lee Robinson (American football)
-owner, bank, owned by, Bloomberg Radio
+location city|american football Team|debut team|Lee Robinson (American football)
+owner|bank|owned by|Bloomberg Radio
 architect
 coach
-region, Miluk language, Cayuse language
-Governor, Winston Bryant, President, Carl Stokes
-athletics, PATTS College of Aeronautics, field, Jon Speelman
-Home Stadium, soccer clubs, coach, Justine  Omojong
-predecessor, automobile, related, Oldsmobile 88
-royalty, parent, Ptolemy XII Auletes, consort, Ptolemy XIII Theos Philopator
-television show, theme music composer, Primus (band), voices, Isaac Hayes
-chancellor, university, campus, Woodlane, New Jersey
-mountain, parent mountain peak, located in area, State of Mexico
+region|Miluk language|Cayuse language
+Governor|Winston Bryant|President|Carl Stokes
+athletics|PATTS College of Aeronautics|field|Jon Speelman
+Home Stadium|soccer clubs|coach|Justine  Omojong
+predecessor|automobile|related|Oldsmobile 88
+royalty|parent|Ptolemy XII Auletes|consort|Ptolemy XIII Theos Philopator
+television show|theme music composer|Primus (band)|voices|Isaac Hayes
+chancellor|university|campus|Woodlane, New Jersey
+mountain|parent mountain peak|located in area|State of Mexico
 ingredient
-developed by, GNOWSYS, GNU TeXmacs
-region served, organisations, Trade association
-Malaysia, assembly, Hyundai Lavita
+developed by|GNOWSYS|GNU TeXmacs
+region served|organisations|Trade association
+Malaysia|assembly|Hyundai Lavita
 music
-owls, made by, products, Mass media
-honours, race horses, trainer, Bert S. Michell
-settlement, leader name, affiliation, Christen-Democratisch en Vlaams
-nationality, Viveka Babajee, nationality, Ronny Vencatachellum
-Ulsan, assembly, Hyundai Lavita
-affiliation, Elections, leader, Y. S. Rajasekhara Reddy
-source, owl, left tributary, Krapanski Potok
-notable commanders, owls, notable commanders, Paul Hausser
+owls|made by|products|Mass media
+honours|race horses|trainer|Bert S. Michell
+settlement|leader name|affiliation|Christen-Democratisch en Vlaams
+nationality|Viveka Babajee|nationality|Ronny Vencatachellum
+Ulsan|assembly|Hyundai Lavita
+affiliation|Elections|leader|Y. S. Rajasekhara Reddy
+source|owl|left tributary|Krapanski Potok
+notable commanders|owls|notable commanders|Paul Hausser
 source
-Tahiti, city-served, Fa'a' International Airport
+Tahiti|city-served|Fa'a' International Airport
 producer
 director
-political party, Arun Chandra Guha, Indira Gandhi
+political party|Arun Chandra Guha|Indira Gandhi
 origin
-alma mater, scientist, known for, Rational analysis
+alma mater|scientist|known for|Rational analysis
 belongs to
-working for, Don R. Berlin
-movies, music, home town, Volos
-Location, Stagecoach, Colorado, Peetz Table Wind Energy Center
-fictional character, relatives, Huey, Dewey, and Louie, species, American Pekin duck
-owner, website, label, Seed Eight
+working for|Don R. Berlin
+movies|music|home town|Volos
+Location|Stagecoach, Colorado|Peetz Table Wind Energy Center
+fictional character|relatives|Huey, Dewey, and Louie|species|American Pekin duck
+owner|website|label|Seed Eight
 land
-border, valleys, municipality, Crook County, Oregon
+border|valleys|municipality|Crook County, Oregon
 university
-relativess, Clan McDuck, Huey, Dewey, and Louie
-musical artists, label, Colpix Records
-person that first ascented a mountain, Cathedral Peak (California), Mount Hoffmann
-currency, owls, capital, Podgorica
-home stadium, soccer club seasons, home stadium, Luzhniki Stadium
+relativess|Clan McDuck|Huey, Dewey, and Louie
+musical artists|label|Colpix Records
+person that first ascented a mountain|Cathedral Peak (California)|Mount Hoffmann
+currency|owls|capital|Podgorica
+home stadium|soccer club seasons|home stadium|Luzhniki Stadium
 training
-Composer, Motorpsycho Nitemare, composed by, The Times They Are a-Changin' (musical)
-river, source location, Dowra
-denomination, president, leader, Mongolian legislative election, 2004
-television shows, network, key person, Steve Burke (businessman)
+Composer|Motorpsycho Nitemare|composed by|The Times They Are a-Changin' (musical)
+river|source location|Dowra
+denomination|president|leader|Mongolian legislative election, 2004
+television shows|network|key person|Steve Burke (businessman)
 municipality
-denomination, politician, alma mater, Yokohama National University
+denomination|politician|alma mater|Yokohama National University
 narrated
-sport, schools, language, Swahili language
-main interests, Philip Novak, type, Vesak
-ethnic groups, Languages, family, Anglo-Frisian languages
-area, Tar Heel Sports Network, official residence, Michael Nichols (photographer)
-settlement, neighboring municipalitiess, Cologny, Lancy
-Artist, artworks, museum, So Paulo Museum of Art
-command structure, VP-8, VP-10
-used money, French Southern and Antarctic Lands, product, Karafarin Bank
-membership, organisations, membership, Azerbaijan
+sport|schools|language|Swahili language
+main interests|Philip Novak|type|Vesak
+ethnic groups|Languages|family|Anglo-Frisian languages
+area|Tar Heel Sports Network|official residence|Michael Nichols (photographer)
+settlement|neighboring municipalitiess|Cologny|Lancy
+Artist|artworks|museum|So Paulo Museum of Art
+command structure|VP-8|VP-10
+used money|French Southern and Antarctic Lands|product|Karafarin Bank
+membership|organisations|membership|Azerbaijan
 content licence
-fictional character, series, Spy Kids (franchise)
-comics characters, creators, Paul Dini
+fictional character|series|Spy Kids (franchise)
+comics characters|creators|Paul Dini
 is owned by
-place of birth, religious, successor, Sevan Ross
-owned by, Ted Williams Tunnel, Leonard P. Zakim Bunker Hill Memorial Bridge
-region, school, rival, Somerset Berkley Regional High School
-soccer managers, nationalteam, Spain national football team
-alma mater, Henry Morton Dexter, Jack McGregor
-companies, foundation place, governing body, Dallas
-associated musical artist, musical artists, label, EMI
+place of birth|religious|successor|Sevan Ross
+owned by|Ted Williams Tunnel|Leonard P. Zakim Bunker Hill Memorial Bridge
+region|school|rival|Somerset Berkley Regional High School
+soccer managers|nationalteam|Spain national football team
+alma mater|Henry Morton Dexter|Jack McGregor
+companies|foundation place|governing body|Dallas
+associated musical artist|musical artists|label|EMI
 purpose
-television shows, company, subsidiary, Big Ticket Entertainment
+television shows|company|subsidiary|Big Ticket Entertainment
 operated by
-authority, Maine School of Science and Mathematics, restingplace, Charles A. Boutelle
-royalties, buried in, Rome
-location, religiouss, title, Marja'
-soccer players, currentclub, ground, Stoke-on-Trent
+authority|Maine School of Science and Mathematics|restingplace|Charles A. Boutelle
+royalties|buried in|Rome
+location|religiouss|title|Marja'
+soccer players|currentclub|ground|Stoke-on-Trent
 country
-President, Carl Stokes, president, Wyche Fowler
-God Save the Queen, national anthem, United Kingdom
-movies, language, Swedish language
-Booker T (wrestler), trainer, Christina Crawford (wrestler)
+President|Carl Stokes|president|Wyche Fowler
+God Save the Queen|national anthem|United Kingdom
+movies|language|Swedish language
+Booker T (wrestler)|trainer|Christina Crawford (wrestler)
 used money
-musicals, music, label, Sony Music Entertainment
-owls, major shrine, leader name, Justin Trudeau
-main interests, philosopher, past members, Senser
+musicals|music|label|Sony Music Entertainment
+owls|major shrine|leader name|Justin Trudeau
+main interests|philosopher|past members|Senser
 leader name
-city, radio station, sister station, KTXY
-POB, senator, successor, Hank Brown
-constituency, Jonas Gahr Stre, born at, Sverre Krogh Sundb
-battle, Stephen Urban, battles, Ali Habib Mahmud
+city|radio station|sister station|KTXY
+POB|senator|successor|Hank Brown
+constituency|Jonas Gahr Stre|born at|Sverre Krogh Sundb
+battle|Stephen Urban|battles|Ali Habib Mahmud
 religious affiliation
-born at, engineer, manufactured by, Esnault-Pelterie R.E.P. 1
-soccer managers, managerclubs, England national under-21 football team
-military conflict, commanders, John McEwen, Phm Vn ng
-party, office holders, constituency, Mumbai North (Lok Sabha constituency)
-television show, judgess, Randy Jackson, Jennifer Lopez
-largest city, country, Host city, 1951 Asian Games
-royalty, mum, Cleopatra V of Egypt, marriage partner, Ptolemy XIII Theos Philopator
-television show, theme music composer, associated band, Phish
-The Smiths, associated band, Morrissey
-administrative headquarters, Pulau Ubin, resting place, Nicole Lai
-origin, beverage, mfr, Refriango
-builder, stadium, tenants, Costa Rica national football team
-state, rugby league, sports league, Auckland rugby union team
+born at|engineer|manufactured by|Esnault-Pelterie R.E.P. 1
+soccer managers|managerclubs|England national under-21 football team
+military conflict|commanders|John McEwen|Phm Vn ng
+party|office holders|constituency|Mumbai North (Lok Sabha constituency)
+television show|judgess|Randy Jackson|Jennifer Lopez
+largest city|country|Host city|1951 Asian Games
+royalty|mum|Cleopatra V of Egypt|marriage partner|Ptolemy XIII Theos Philopator
+television show|theme music composer|associated band|Phish
+The Smiths|associated band|Morrissey
+administrative headquarters|Pulau Ubin|resting place|Nicole Lai
+origin|beverage|mfr|Refriango
+builder|stadium|tenants|Costa Rica national football team
+state|rugby league|sports league|Auckland rugby union team
 serving railway line
-format, radio program, creator, Timoteo  Jeffries
-location, protected areas, nearest city, Bend, Oregon
-Western (genre), literary genre, True Grit (novel)
-series, Short Trips: A Day in the Life, notable work, Russell T Davies
-battles, president, primeminister, Chung Won-shik
-office holder, resting place, Palo Alto, California, successor, Adrian A. Basora
-movies, distributed by, Cinema International Corporation
-destinations, airlines, destinations, Mediterranean Sea
-academic discipline, academic journals, academic discipline, Neuroimaging
-awarded, Charles LeMaire, Nick Park
-location town, building, building type, Ferris wheel
-movie, screenplay, Akiva Goldsman, editor, Mark Stevens (film editor)
-movies, language, Swedish language
-television shows, theme music composer, Julian Gingell, created by, Simon Fuller
-services, 21Vianet, computing platform, Google Cloud Connect
-office holder, constituency, Haight-Ashbury
-location, Lekh Castle, source country, SamurAbsheron channel
-family, mammals, kingdom, Animal
-party, governor, successor, A. K. Singh
-head coach, owls, club, Middlesbrough F.C.
-university attended, Sidney Catlin Partridge, Cyril Hume
-faith, office holders, branch, Royal Thai Army
-Lucrezia Tornabuoni, has mother, Lorenzo de' Medici
-producer, movies, music, Gary Chang
+format|radio program|creator|Timoteo  Jeffries
+location|protected areas|nearest city|Bend, Oregon
+Western (genre)|literary genre|True Grit (novel)
+series|Short Trips: A Day in the Life|notable work|Russell T Davies
+battles|president|primeminister|Chung Won-shik
+office holder|resting place|Palo Alto, California|successor|Adrian A. Basora
+movies|distributed by|Cinema International Corporation
+destinations|airlines|destinations|Mediterranean Sea
+academic discipline|academic journals|academic discipline|Neuroimaging
+awarded|Charles LeMaire|Nick Park
+location town|building|building type|Ferris wheel
+movie|screenplay|Akiva Goldsman|editor|Mark Stevens (film editor)
+movies|language|Swedish language
+television shows|theme music composer|Julian Gingell|created by|Simon Fuller
+services|21Vianet|computing platform|Google Cloud Connect
+office holder|constituency|Haight-Ashbury
+location|Lekh Castle|source country|SamurAbsheron channel
+family|mammals|kingdom|Animal
+party|governor|successor|A. K. Singh
+head coach|owls|club|Middlesbrough F.C.
+university attended|Sidney Catlin Partridge|Cyril Hume
+faith|office holders|branch|Royal Thai Army
+Lucrezia Tornabuoni|has mother|Lorenzo de' Medici
+producer|movies|music|Gary Chang
 Recorded
-movies, music composer, associated acts, Demis Roussos
+movies|music composer|associated acts|Demis Roussos
 allegiance
-alma mater, person, actress, The God Who Wasn't There
-associated musical artist, musical artists, notable instruments, Guitar
-airlines, hub airport, operator, Los Angeles World Airports
-parent company, automobile, assembly, Colombia
+alma mater|person|actress|The God Who Wasn't There
+associated musical artist|musical artists|notable instruments|Guitar
+airlines|hub airport|operator|Los Angeles World Airports
+parent company|automobile|assembly|Colombia
 film director
-purpose, organisations, Non-governmental organization
-team played for, american football players, birthplace, Bellaire, Ohio
-religion, Katyayana (Buddhist), political ideology, Palang Dharma Party
-tenants, MasterCard Centre
-starring, movies, writer, Mark Sandrich
-religion, office holders, political party, Bharatiya Janata Party
-mascot, school, rival, Sullivan Central High School
-honorary title, Dion Beebe, awards, Charles LeMaire
+purpose|organisations|Non-governmental organization
+team played for|american football players|birthplace|Bellaire, Ohio
+religion|Katyayana (Buddhist)|political ideology|Palang Dharma Party
+tenants|MasterCard Centre
+starring|movies|writer|Mark Sandrich
+religion|office holders|political party|Bharatiya Janata Party
+mascot|school|rival|Sullivan Central High School
+honorary title|Dion Beebe|awards|Charles LeMaire
 née
-party, office holder, children, Sanjay Gandhi
-tenants, MasterCard Centre, draft team, Antoine Bibeau
-profession, people, died in, Tampa, Florida
-office holder, branch, Indiana Territory
-person, born in, Gelnhausen, graduated from, Pepperdine University
-birth place, musical artists, associated acts, Ren & Angela
-religious affiliation, Wickramabahu Central College (National School), Neungin High School
+party|office holder|children|Sanjay Gandhi
+tenants|MasterCard Centre|draft team|Antoine Bibeau
+profession|people|died in|Tampa, Florida
+office holder|branch|Indiana Territory
+person|born in|Gelnhausen|graduated from|Pepperdine University
+birth place|musical artists|associated acts|Ren & Angela
+religious affiliation|Wickramabahu Central College (National School)|Neungin High School
 designed by
 debut team
-Pole driver, 1997 Canadian Grand Prix, 1994 Spanish Grand Prix
+Pole driver|1997 Canadian Grand Prix|1994 Spanish Grand Prix
 founded by
-Artist, owl, subsequent work, Ella Loves Cole
+Artist|owl|subsequent work|Ella Loves Cole
 owning company
-state, Downriver, birth city, Cyrus Mann
-religious, title, Superior general
-craft, people, death place, Tampa, Florida
-known for, owl, field, Veterinary physician
-movie, music, Geoffrey Burgon, editor, Julian Doyle (filmmaker)
-children, person, film starring, The Weathered Underground
-owning company, Evraz, is owned by, Chelsea F.C.
-Nelson Mandela, notable commanders, Umkhonto we Sizwe
-office holder, associate, Marcus Calpurnius Bibulus, kids, Augustus
-movies, screenplay, Eric Roth
-writer, singles, recorded in, Miami
-faith, ethnic group, architecture, Sanggar Agung
-producer, album, Album, Money (Pink Floyd song)
-television show, artistic genre, Science fiction, theme music composer, Ron Grainer
-company, founded by, Fusajiro Yamauchi
+state|Downriver|birth city|Cyrus Mann
+religious|title|Superior general
+craft|people|death place|Tampa, Florida
+known for|owl|field|Veterinary physician
+movie|music|Geoffrey Burgon|editor|Julian Doyle (filmmaker)
+children|person|film starring|The Weathered Underground
+owning company|Evraz|is owned by|Chelsea F.C.
+Nelson Mandela|notable commanders|Umkhonto we Sizwe
+office holder|associate|Marcus Calpurnius Bibulus|kids|Augustus
+movies|screenplay|Eric Roth
+writer|singles|recorded in|Miami
+faith|ethnic group|architecture|Sanggar Agung
+producer|album|Album|Money (Pink Floyd song)
+television show|artistic genre|Science fiction|theme music composer|Ron Grainer
+company|founded by|Fusajiro Yamauchi
 writer
-membership, European Go Federation
-Kevin Rudd, prime minister, Julia Gillard
-state, Daniel L. D. Granger, Job Durfee
-mascot, handball team, league, Turkish Handball Super League
-recorded in, Live in Detroit, MI, official residence, Ken Holland
-language, owls, Artist, Marika Gombitov
-associated musical artist, musical artists, label, EMI
-river, settlement, nearest city, Mount Raimer
-scientist, supervisor, doctoral students, Mary Ainsworth
-relation, military people, PLACE OF DEATH, Germany
-debutteam, Hinkey Haines, Deion Sanders
-route end, Mumbai Vadodara Expressway, garrison, East Indies Station
+membership|European Go Federation
+Kevin Rudd|prime minister|Julia Gillard
+state|Daniel L. D. Granger|Job Durfee
+mascot|handball team|league|Turkish Handball Super League
+recorded in|Live in Detroit, MI|official residence|Ken Holland
+language|owls|Artist|Marika Gombitov
+associated musical artist|musical artists|label|EMI
+river|settlement|nearest city|Mount Raimer
+scientist|supervisor|doctoral students|Mary Ainsworth
+relation|military people|PLACE OF DEATH|Germany
+debutteam|Hinkey Haines|Deion Sanders
+route end|Mumbai Vadodara Expressway|garrison|East Indies Station
 member of political party
-scientists, awards, Copley Medal
-awards, presenter, headquarters, Beverly Hills, California
+scientists|awards|Copley Medal
+awards|presenter|headquarters|Beverly Hills, California
 narrator
-Dan River (Middle East), left tributary, Jordan River
-producer (of product), information appliance, operating system, Now TV (UK)
-associated musical artist, musical artists, notable instruments, Guitar
-office holders, official residence, India
-base currency, country, operator, Marion Dufresne (1995)
-region, governor, Governor, Stephen L.R. McNichols
+Dan River (Middle East)|left tributary|Jordan River
+producer (of product)|information appliance|operating system|Now TV (UK)
+associated musical artist|musical artists|notable instruments|Guitar
+office holders|official residence|India
+base currency|country|operator|Marion Dufresne (1995)
+region|governor|Governor|Stephen L.R. McNichols
 operated by
-composer, song, producer, Terry Melcher
+composer|song|producer|Terry Melcher
 series
-subsequent work, albums, performer, The Band
-musical artist, notable instruments, Ludwig Drums, instrument, Remo
-rivers, source country, official language, English language
-nominee, Jack Ryan (politician), Robert Sarvis
+subsequent work|albums|performer|The Band
+musical artist|notable instruments|Ludwig Drums|instrument|Remo
+rivers|source country|official language|English language
+nominee|Jack Ryan (politician)|Robert Sarvis
 album
-sovereign state, cheese, ingredient, Shallot
-river, source region, North-Western Province, Zambia
-stockholder, Galician Wikipedia, stockholder, German Wikipedia
-river, city , Reading, Berkshire, mouth place, Southend-on-Sea
+sovereign state|cheese|ingredient|Shallot
+river|source region|North-Western Province, Zambia
+stockholder|Galician Wikipedia|stockholder|German Wikipedia
+river|city |Reading, Berkshire|mouth place|Southend-on-Sea
 university
-Amharic, official language, Ethiopia
-craft, Craig Van Tilbury, sport, Islamic Azad University Central Tehran Branch
-products, company, publisher, Tweenies: Game Time
-government agencies, location, leader name, Alex Chalk
-religious affiliation, fictional character, series, Absolutely Fabulous
-movies, music composer, instrument, Hammond organ
-Short Cut Draw Blood, Album, Love Hurts
-religion, Janaka Thissakuttiarachchi, employment, Atia
-largest city, Union State, born at, Svetlana Gounkina
-television show, Artist, Christopher Franke, cast member, Jason Carter (actor)
-artist, married, Lee Krasner
-debutteam, soccer player, youthclubs, Lighthouse Boys Club
-body discovered, people, alma mater, General Educational Development
-designer, bridge, located in area, Oddamavadi
-leader name, settlements, governing body, Municipal council
-co-founder, record labels, founded by, Chris DuBois
-companies, region served, Australia
-sovereign state, Foods, ingredient, Coconut
-name, soccer club seasons, chairman, Patrcia Amorim
-genre, video games, game platform, Amiga
-Buddhism, literary genre, The Buddha and His Dhamma
-relation, military people, battles, Battle of the Bulge
-film genre, video games, game platform, Commodore CDTV
-Quarterback, position, Jevan Snead
-television show, voicess, Eliza Schneider, Isaac Hayes
-movies, director, resting place, Ronda
-debut team, baseball players, POB, Houston
-Seattle, hub airport, Cascade Airways
+Amharic|official language|Ethiopia
+craft|Craig Van Tilbury|sport|Islamic Azad University Central Tehran Branch
+products|company|publisher|Tweenies: Game Time
+government agencies|location|leader name|Alex Chalk
+religious affiliation|fictional character|series|Absolutely Fabulous
+movies|music composer|instrument|Hammond organ
+Short Cut Draw Blood|Album|Love Hurts
+religion|Janaka Thissakuttiarachchi|employment|Atia
+largest city|Union State|born at|Svetlana Gounkina
+television show|Artist|Christopher Franke|cast member|Jason Carter (actor)
+artist|married|Lee Krasner
+debutteam|soccer player|youthclubs|Lighthouse Boys Club
+body discovered|people|alma mater|General Educational Development
+designer|bridge|located in area|Oddamavadi
+leader name|settlements|governing body|Municipal council
+co-founder|record labels|founded by|Chris DuBois
+companies|region served|Australia
+sovereign state|Foods|ingredient|Coconut
+name|soccer club seasons|chairman|Patrcia Amorim
+genre|video games|game platform|Amiga
+Buddhism|literary genre|The Buddha and His Dhamma
+relation|military people|battles|Battle of the Bulge
+film genre|video games|game platform|Commodore CDTV
+Quarterback|position|Jevan Snead
+television show|voicess|Eliza Schneider|Isaac Hayes
+movies|director|resting place|Ronda
+debut team|baseball players|POB|Houston
+Seattle|hub airport|Cascade Airways
 edited by
-known for, person, relative, Mrunalini Kunte
-associated musical artist, owls, associated acts, Divertis
+known for|person|relative|Mrunalini Kunte
+associated musical artist|owls|associated acts|Divertis
 notableworks
-developer, video games, composer, Gerard Marino
-developer, software, operating system, Unix-like
-leader, political parties, seat, Berlin
-James  Maker, associated band, Noko
-Nick Jonas, past members, Jonas Brothers
-tenant, New Sanno Hotel, military branch, Gary Holder-Winfield
+developer|video games|composer|Gerard Marino
+developer|software|operating system|Unix-like
+leader|political parties|seat|Berlin
+James  Maker|associated band|Noko
+Nick Jonas|past members|Jonas Brothers
+tenant|New Sanno Hotel|military branch|Gary Holder-Winfield
 director
-soccer manager, manager club, Middlesbrough F.C., managerclubs, England national under-21 football team
-soccer players, youthclubs, league, La Liga
-key people, The Elders (organization), president, United World Colleges
-soccer players, currentclub, chairman, Ferran Soriano
-member of political party, office holder, place of birth, Mangalore
-working for, Michael M. Sears, producer (of product), Delta III
-largest city, administrative region, county, Cy-Fair High School
-bacterias, division, Firmicutes
+soccer manager|manager club|Middlesbrough F.C.|managerclubs|England national under-21 football team
+soccer players|youthclubs|league|La Liga
+key people|The Elders (organization)|president|United World Colleges
+soccer players|currentclub|chairman|Ferran Soriano
+member of political party|office holder|place of birth|Mangalore
+working for|Michael M. Sears|producer (of product)|Delta III
+largest city|administrative region|county|Cy-Fair High School
+bacterias|division|Firmicutes
 allegiance
-Michigan Wolverines, currentteam, Jim Harbaugh
-television show, subsequent work, Crusade (TV series), Composer, Stewart Copeland
-Band, current members, Chester Bennington
-primeminister, office holders, successor, Derick Heathcoat-Amory, 1st Viscount Amory
-designer, automobiles, designer company, ASC  Creative  Services
-birds, family, Orthonychidae
+Michigan Wolverines|currentteam|Jim Harbaugh
+television show|subsequent work|Crusade (TV series)|Composer|Stewart Copeland
+Band|current members|Chester Bennington
+primeminister|office holders|successor|Derick Heathcoat-Amory, 1st Viscount Amory
+designer|automobiles|designer company|ASC  Creative  Services
+birds|family|Orthonychidae
 pole driver
-San Antonio, junction, U.S. Route 281
-medals, economist, founded, Grameen Bank
-Queen Latifah, group, U.N.I.T.Y.
-notable work, writer, writers, The Second Coming (TV serial)
-musical artists, notable instruments, Gibson Guitar Corporation
-primeminister, member of parliament, has kids, Jack Ferguson
-Annie Leibovitz, cover artist, The Road Ahead (Bill Gates book)
-schools, mascot, class, Eutheria
-played for, Michael Springer, alumnus of, Donald Brooks
-nationality, Georgina Theodora Wood, Akwasi Oppong Fosu
-movie, distributor, Cinema International Corporation, writer, Monty Python
-Pittsburgh Steelers, pastteams, Marv McFadden
-writers, Erik Jendresen, John Orloff
-Location, Yellow Claw (DJs), Elasticsearch
+San Antonio|junction|U.S. Route 281
+medals|economist|founded|Grameen Bank
+Queen Latifah|group|U.N.I.T.Y.
+notable work|writer|writers|The Second Coming (TV serial)
+musical artists|notable instruments|Gibson Guitar Corporation
+primeminister|member of parliament|has kids|Jack Ferguson
+Annie Leibovitz|cover artist|The Road Ahead (Bill Gates book)
+schools|mascot|class|Eutheria
+played for|Michael Springer|alumnus of|Donald Brooks
+nationality|Georgina Theodora Wood|Akwasi Oppong Fosu
+movie|distributor|Cinema International Corporation|writer|Monty Python
+Pittsburgh Steelers|pastteams|Marv McFadden
+writers|Erik Jendresen|John Orloff
+Location|Yellow Claw (DJs)|Elasticsearch
 partner
-area, broadcast network, affiliation, 9TV
-person, partner, Gerard Piqu
-sport, schools, religious affiliation, Harvest  Christian  Center
-american football players, debut team, coach, Chip Kelly
+area|broadcast network|affiliation|9TV
+person|partner|Gerard Piqu
+sport|schools|religious affiliation|Harvest  Christian  Center
+american football players|debut team|coach|Chip Kelly
 Nickname
-river, source country, Zambia, source region, North-Western Province, Zambia
-member of political party, office holders, PLACE OF DEATH, Delhi
-state, Fiq, Ethiopia, born at, Adugna Deyas
+river|source country|Zambia|source region|North-Western Province, Zambia
+member of political party|office holders|PLACE OF DEATH|Delhi
+state|Fiq, Ethiopia|born at|Adugna Deyas
 headquarters
-religion, president, primeminister, Lee Hyun-jae
-maker, automobile engine, engine, Ford F-Series first generation
+religion|president|primeminister|Lee Hyun-jae
+maker|automobile engine|engine|Ford F-Series first generation
 religious affiliation
-Maria Sharapova, siler medalist, Tennis at the 2012 Summer Olympics  Women's singles
-office holder, daughters, Lori Black, successor, Adrian A. Basora
+Maria Sharapova|siler medalist|Tennis at the 2012 Summer Olympics  Women's singles
+office holder|daughters|Lori Black|successor|Adrian A. Basora
 owners
 colour
-former team, owls, played for, Atlant Moscow Oblast
-state of origin, president, alma mater, Hellenic Naval Academy
-ethnicity, Maike Evers, Francisco Lachowski
-region served, companies, foundation place, City of Newcastle
-senator, military units, VMF-155, VMF-218
-artistic genre, video games, publisher, Interplay Entertainment
-engine, Purvis Eureka, company, Ford Theatre
+former team|owls|played for|Atlant Moscow Oblast
+state of origin|president|alma mater|Hellenic Naval Academy
+ethnicity|Maike Evers|Francisco Lachowski
+region served|companies|foundation place|City of Newcastle
+senator|military units|VMF-155|VMF-218
+artistic genre|video games|publisher|Interplay Entertainment
+engine|Purvis Eureka|company|Ford Theatre
 developer
-associated band, Teddy Riley, musical band, Take Me There (Blackstreet & Ma song)
+associated band|Teddy Riley|musical band|Take Me There (Blackstreet & Ma song)
 time zone
-fictional characters, series, cast member, Craig Robinson (actor)
-other party, Chandra Shekhar, political party, Datla Satyanarayana Raju
-owned by, airport, city, Paphos District
-baseball team, club manager, Chip Hale
-bacterias, class, Bacilli
+fictional characters|series|cast member|Craig Robinson (actor)
+other party|Chandra Shekhar|political party|Datla Satyanarayana Raju
+owned by|airport|city|Paphos District
+baseball team|club manager|Chip Hale
+bacterias|class|Bacilli
 honours
-owls, manufacturer, subsidiary, Sony Corporation shareholders and subsidiaries
-builder, stadium, tenant, 2014 FIFA U-17 Women's World Cup
-operated by, South Side Elevated Railroad, POD, Sakari Suzuki
-television show, related, Doctor Who Confidential
+owls|manufacturer|subsidiary|Sony Corporation shareholders and subsidiaries
+builder|stadium|tenant|2014 FIFA U-17 Women's World Cup
+operated by|South Side Elevated Railroad|POD|Sakari Suzuki
+television show|related|Doctor Who Confidential
 Recorded
-nearest city, Jurgens Site, deathplace, Jimmie Heuga
+nearest city|Jurgens Site|deathplace|Jimmie Heuga
 battles
-companies, foundation place, United States
-Charles Drummond Ellis, doctoral student, James Chadwick
-movies, distributor, Cinema International Corporation
+companies|foundation place|United States
+Charles Drummond Ellis|doctoral student|James Chadwick
+movies|distributor|Cinema International Corporation
 local authority
 president
-fields, owl, place of birth, Lausanne
-company, location city, Texas, founded by, Jim Harris (entrepreneur)
-television show, presenter, Brian Dunkleman, judges, Harry Connick, Jr.
+fields|owl|place of birth|Lausanne
+company|location city|Texas|founded by|Jim Harris (entrepreneur)
+television show|presenter|Brian Dunkleman|judges|Harry Connick, Jr.
 parent company
-nation, owls, main ingredient, Ham
-software, operating system, Microsoft Windows, content licence, Software as a service
-belongs to, The National Herald (India), political party, Yashpal Kapur
-presenter, television shows, channel, NBC
-predecessor, automobiles, class, Full-size car
-office holder, resting place, Plymouth, Vermont, predecessor, Samuel W. McCall
-die from, Letitia MacTavish Hargrave, Martino Martini
-software, programming language, operating system, Unix-like
-movies, director, birthplace, Kenosha, Wisconsin
-Kingston, Ontario, source mountain, Saint Lawrence River
-stadium, operator, Stan Kroenke
-Mike Babcock, head coach, Toronto Maple Leafs
-commanders, John McEwen, Park Chung-hee
-Guests, television episodes, previous work, Bombshell (Smash)
-owls, built by, key people, Kazuo Hirai
-President, office holders, branch, Continental Army
-city, governing body, Philadelphia City Council
+nation|owls|main ingredient|Ham
+software|operating system|Microsoft Windows|content licence|Software as a service
+belongs to|The National Herald (India)|political party|Yashpal Kapur
+presenter|television shows|channel|NBC
+predecessor|automobiles|class|Full-size car
+office holder|resting place|Plymouth, Vermont|predecessor|Samuel W. McCall
+die from|Letitia MacTavish Hargrave|Martino Martini
+software|programming language|operating system|Unix-like
+movies|director|birthplace|Kenosha, Wisconsin
+Kingston, Ontario|source mountain|Saint Lawrence River
+stadium|operator|Stan Kroenke
+Mike Babcock|head coach|Toronto Maple Leafs
+commanders|John McEwen|Park Chung-hee
+Guests|television episodes|previous work|Bombshell (Smash)
+owls|built by|key people|Kazuo Hirai
+President|office holders|branch|Continental Army
+city|governing body|Philadelphia City Council
 binomial authority
-movie, music, Elliot Goldenthal, screenplay, Akiva Goldsman
-fictional character, relative, Duck family (Disney), relatives, Clan McDuck
-river, mouth mountain, St. Louis, right tributary, Madison River
+movie|music|Elliot Goldenthal|screenplay|Akiva Goldsman
+fictional character|relative|Duck family (Disney)|relatives|Clan McDuck
+river|mouth mountain|St. Louis|right tributary|Madison River
 state
-political party, Govinda (actor), leader name, Rishikesh
-awards, screenwriter, screenplay, Lucky You (film)
+political party|Govinda (actor)|leader name|Rishikesh
+awards|screenwriter|screenplay|Lucky You (film)
 Pole driver
-PLACE OF DEATH, Georges Wolinski, deathplace, Judson Huss
-parent company, airline, hubs, Detroit
-information appliance, central processing unit, Marvell Technology Group
-magazine, founded, died in, Berkeley, California
-information appliances, builder, Foxconn
-George Lucas, cinematographer, 6-18-67
-office holders, predecessor, deputy, Jenny Macklin
-related, automobiles, assembly, Jefferson North Assembly
-region, AN/FSQ-7 Combat Direction Central
-houses, United States Congress, house, Kansas Legislature
-John Muir, person that first ascented a mountain, Cathedral Peak (California)
-place of birth, medicians, institution, Harvard Medical School
-television show, voices, Mona Marshall, distributor, Comedy Central
-fork of, musicals, music, Jerry Bock
-person that first ascented a mountain, mountains, located in area, Yosemite National Park
+PLACE OF DEATH|Georges Wolinski|deathplace|Judson Huss
+parent company|airline|hubs|Detroit
+information appliance|central processing unit|Marvell Technology Group
+magazine|founded|died in|Berkeley, California
+information appliances|builder|Foxconn
+George Lucas|cinematographer|6-18-67
+office holders|predecessor|deputy|Jenny Macklin
+related|automobiles|assembly|Jefferson North Assembly
+region|AN/FSQ-7 Combat Direction Central
+houses|United States Congress|house|Kansas Legislature
+John Muir|person that first ascented a mountain|Cathedral Peak (California)
+place of birth|medicians|institution|Harvard Medical School
+television show|voices|Mona Marshall|distributor|Comedy Central
+fork of|musicals|music|Jerry Bock
+person that first ascented a mountain|mountains|located in area|Yosemite National Park
 type
-office holder, allegiance, Colony of Virginia, restingplace, Montpelier (Orange, Virginia)
-Tim Gunn, Guests, The Broken Code
-information appliance, successor, PlayStation 4
-sovereign state, Dafydd Benfras, citizen of, Jasmine Lowson
-american football player, highschool, mascot, Fighting  Tiger
-destination, Emerald Air (United States), city-served, Houston Fort Bend Airport
-service, Jerusalem Institute of Justice, result, GazaIsrael conflict
-company, key people, Raymond Conner, products, Boeing CH-47 Chinook
-craft, owls, die from, Suicide
-golf players, college, Arizona State Sun Devils
-characters, Batman Live
-services, companies, services, Microsoft Azure
-name, owls, home stadium, Camp Nou
-university, Nickname, Tulane Green Wave
-branch, politicians, governor, Bill Clements
-music composer, television episode, subsequent work, Butters' Very Own Episode
+office holder|allegiance|Colony of Virginia|restingplace|Montpelier (Orange, Virginia)
+Tim Gunn|Guests|The Broken Code
+information appliance|successor|PlayStation 4
+sovereign state|Dafydd Benfras|citizen of|Jasmine Lowson
+american football player|highschool|mascot|Fighting  Tiger
+destination|Emerald Air (United States)|city-served|Houston Fort Bend Airport
+service|Jerusalem Institute of Justice|result|GazaIsrael conflict
+company|key people|Raymond Conner|products|Boeing CH-47 Chinook
+craft|owls|die from|Suicide
+golf players|college|Arizona State Sun Devils
+characters|Batman Live
+services|companies|services|Microsoft Azure
+name|owls|home stadium|Camp Nou
+university|Nickname|Tulane Green Wave
+branch|politicians|governor|Bill Clements
+music composer|television episode|subsequent work|Butters' Very Own Episode
 location country
-software, developer, Shawn Fanning
-stylistic origin, music genres, instruments, Bass guitar
-notableworks, writer, executive producer, The Runaway Bride (Doctor Who)
-voice, Allen Walker, Kimihiro Watanuki
-office holder, conflict, Siege of Fort Recovery, restingplace, North Bend, Ohio
+software|developer|Shawn Fanning
+stylistic origin|music genres|instruments|Bass guitar
+notableworks|writer|executive producer|The Runaway Bride (Doctor Who)
+voice|Allen Walker|Kimihiro Watanuki
+office holder|conflict|Siege of Fort Recovery|restingplace|North Bend, Ohio
 engine
 edited by
-combatant, military conflict, battles, Jonathan Haskell
-birth city, model, film starring, Singhasan Battisi (TV series)
-region served, Toll Global Express, country, LPGA
+combatant|military conflict|battles|Jonathan Haskell
+birth city|model|film starring|Singhasan Battisi (TV series)
+region served|Toll Global Express|country|LPGA
 territory
 played for
-awards, person, screenplay, OSS 117: Lost in Rio
-PLACE OF DEATH, basketball players, draft team, Detroit Pistons
-Artist, The Trial (song), band, One of These Days (instrumental)
+awards|person|screenplay|OSS 117: Lost in Rio
+PLACE OF DEATH|basketball players|draft team|Detroit Pistons
+Artist|The Trial (song)|band|One of These Days (instrumental)
 club
 river mouth
-university, campus, Indiana, affiliations, Kaplan, Inc.
-newspaper, principle office, 1211 Avenue of the Americas
-Morrissey, former band member, The Smiths
-Columbia University, university, Phillippe Cabot
-river, source location, Kingston, Ontario
+university|campus|Indiana|affiliations|Kaplan, Inc.
+newspaper|principle office|1211 Avenue of the Americas
+Morrissey|former band member|The Smiths
+Columbia University|university|Phillippe Cabot
+river|source location|Kingston, Ontario
 style
-primeminister, office holder, successor, Kingsley Wood
-company, founded by, Jim Harris (entrepreneur)
-employer, engineers, employer, McDonnell Aircraft
-developed by, video game, voice, Lightning McQueen
-university, affiliations, Kaplan, Inc., campus, Iowa
-record label, musical artists, artistic genre, Jazz fusion
-region served, owl, distributor, Secrets and Lies (U.S. TV series)
-writers, comics, writers, Robert Bernstein (comics)
-settlements, neighboring municipalities, Lancy
-hometown, gymnasts, hometown, Russia
-state, stream, left tributary, Toms Creek (Monocacy River)
-river, source mountain, Baikal Mountains, mouth location, Arctic Ocean
-doctoral students, scientists, prizes, National Medal of Science
-broadcast area, CFRX, place of birth, Anthony Raymond Ceresko
-cast member, television shows, actress, Joey McIntyre
-award won, artists, prize awarded, SIGGRAPH
+primeminister|office holder|successor|Kingsley Wood
+company|founded by|Jim Harris (entrepreneur)
+employer|engineers|employer|McDonnell Aircraft
+developed by|video game|voice|Lightning McQueen
+university|affiliations|Kaplan, Inc.|campus|Iowa
+record label|musical artists|artistic genre|Jazz fusion
+region served|owl|distributor|Secrets and Lies (U.S. TV series)
+writers|comics|writers|Robert Bernstein (comics)
+settlements|neighboring municipalities|Lancy
+hometown|gymnasts|hometown|Russia
+state|stream|left tributary|Toms Creek (Monocacy River)
+river|source mountain|Baikal Mountains|mouth location|Arctic Ocean
+doctoral students|scientists|prizes|National Medal of Science
+broadcast area|CFRX|place of birth|Anthony Raymond Ceresko
+cast member|television shows|actress|Joey McIntyre
+award won|artists|prize awarded|SIGGRAPH
 training
-battles, Raoul Magrin-Vernerey
-flagbearer, Switzerland at the 2004 Summer Olympics, Switzerland at the 2008 Summer Olympics
+battles|Raoul Magrin-Vernerey
+flagbearer|Switzerland at the 2004 Summer Olympics|Switzerland at the 2008 Summer Olympics
 international
-recognition title, person, children, Angelina Jolie
-software, programming language, language, Multilingualism
-Marshall Arisman, cover artist, American Psycho
-birthplace, Liliya Lobanova, location country, Snake Island (Black Sea)
-scientists, nationality, Statelessness
+recognition title|person|children|Angelina Jolie
+software|programming language|language|Multilingualism
+Marshall Arisman|cover artist|American Psycho
+birthplace|Liliya Lobanova|location country|Snake Island (Black Sea)
+scientists|nationality|Statelessness
 career
-territory, military conflict, commander, Zuo Zongtang
-location, company, known for, Barbara Bestor
-books, literary genre, Utopian and dystopian fiction
-movies, writer, Nick Castle
-river, dam, belongs to, Zambezi River Authority
-Central Semitic languages, family, Egyptian Arabic
-Artist, Sings Kristofferson, performer, Milk Cow Blues
-combatant, military conflicts, commander, Arthur St. Clair
-television show, executive producer, Glen and Les Charles, company, Paramount Television
-basketball players, of team, Chicago Bulls
-is owned by, The National Herald (India), government type, Kumta
-Charles V, Holy Roman Emperor, monarch, Francisco Pizarro
+territory|military conflict|commander|Zuo Zongtang
+location|company|known for|Barbara Bestor
+books|literary genre|Utopian and dystopian fiction
+movies|writer|Nick Castle
+river|dam|belongs to|Zambezi River Authority
+Central Semitic languages|family|Egyptian Arabic
+Artist|Sings Kristofferson|performer|Milk Cow Blues
+combatant|military conflicts|commander|Arthur St. Clair
+television show|executive producer|Glen and Les Charles|company|Paramount Television
+basketball players|of team|Chicago Bulls
+is owned by|The National Herald (India)|government type|Kumta
+Charles V, Holy Roman Emperor|monarch|Francisco Pizarro
 largest city
-origin, musical artist, Artist, A Todo Romantic Style
-race, race horses, sire, Karinga  Bay
-alma mater, scientists, known for, String theory
-mammals, family, Ape
-Nickname, Lyons Township High School, Wheaton College (Massachusetts)
-official residence, beauty queens, hair color, Brown hair
-television shows, distributor, divisions, Warner Bros. Animation
-television show, sculptor, Simon Fuller, judges, Jennifer Lopez
+origin|musical artist|Artist|A Todo Romantic Style
+race|race horses|sire|Karinga  Bay
+alma mater|scientists|known for|String theory
+mammals|family|Ape
+Nickname|Lyons Township High School|Wheaton College (Massachusetts)
+official residence|beauty queens|hair color|Brown hair
+television shows|distributor|divisions|Warner Bros. Animation
+television show|sculptor|Simon Fuller|judges|Jennifer Lopez
 appointer
-movie, actor, Momoko Kchi
-base currency, Benelux, used money, Kerguelen Islands
-mammals, order (taxonomy), Diprotodontia, phylum, Chordate
-key people, Clinton Foundation
-company, foundation, New Mexico, services, Outlook.com
-television show, previous work, The Spirit of Christmas (short film), voices, Mona Marshall
-local authority, Trinity School, Brentwood, Buckhurst Hill County High School
-movies, music, Akira Ifukube
-known for, Jo Garcia, Merritt Cabal
-profession, owls, die from, Suicide
-resting place, politicians, PLACE OF DEATH, Connecticut Colony
-producer, television shows, distributor, FremantleMedia
+movie|actor|Momoko Kchi
+base currency|Benelux|used money|Kerguelen Islands
+mammals|order (taxonomy)|Diprotodontia|phylum|Chordate
+key people|Clinton Foundation
+company|foundation|New Mexico|services|Outlook.com
+television show|previous work|The Spirit of Christmas (short film)|voices|Mona Marshall
+local authority|Trinity School, Brentwood|Buckhurst Hill County High School
+movies|music|Akira Ifukube
+known for|Jo Garcia|Merritt Cabal
+profession|owls|die from|Suicide
+resting place|politicians|PLACE OF DEATH|Connecticut Colony
+producer|television shows|distributor|FremantleMedia
 awards
 producer
-siler medalist, owl, bronze medalist, Yang Yilin
-successor, bank, successor, Hayden, Stone & Co.
-battles, military people, battles, Morocco
+siler medalist|owl|bronze medalist|Yang Yilin
+successor|bank|successor|Hayden, Stone & Co.
+battles|military people|battles|Morocco
 origin
-notable work, Russell T Davies
-owls, currentclub, FC Barcelona
-Andrew Lincoln, narrator, Million Dollar Traders
+notable work|Russell T Davies
+owls|currentclub|FC Barcelona
+Andrew Lincoln|narrator|Million Dollar Traders
 owner
-television shows, network, key person, Deborah Turness
-fictional character, relative, Vestigial Peter
-home stadium, soccer club seasons, chairman, Merritt Paulson
+television shows|network|key person|Deborah Turness
+fictional character|relative|Vestigial Peter
+home stadium|soccer club seasons|chairman|Merritt Paulson
 alma mater
-magazines, company, Limited liability company
-First Driver, 1999 San Marino Grand Prix, Pole driver, 1997 Canadian Grand Prix
+magazines|company|Limited liability company
+First Driver|1999 San Marino Grand Prix|Pole driver|1997 Canadian Grand Prix
 office
-movies, film director, Tim Burton
+movies|film director|Tim Burton
 recorded in
-associated band, musical artist, band member, QDT
-american football player, high school, West Sacramento, California
-name, soccer club seasons, division, 2012 Campeonato Brasileiro Srie A
-successor, Philippine Ports Authority, state of origin, Ruben J. Villote
-recognition title, writer, executive producer, Timmy Time
-american football Team, is owned by, Mark Davis (American football), location city, O.co Coliseum
-place of birth, monarch, successor, Ulrich II, Count of East Frisia
-primeminister, Michael Jeffery, prime minister, William Deane
-is owned by, soccer club, owner, Cobham Training Centre
-binomial authority, crustaceans, family, Balanidae
-death cause, people, country of citizenship, United States
-mammals, family, Ape
-office holders, restingplace, governing body, National Park Service
+associated band|musical artist|band member|QDT
+american football player|high school|West Sacramento, California
+name|soccer club seasons|division|2012 Campeonato Brasileiro Srie A
+successor|Philippine Ports Authority|state of origin|Ruben J. Villote
+recognition title|writer|executive producer|Timmy Time
+american football Team|is owned by|Mark Davis (American football)|location city|O.co Coliseum
+place of birth|monarch|successor|Ulrich II, Count of East Frisia
+primeminister|Michael Jeffery|prime minister|William Deane
+is owned by|soccer club|owner|Cobham Training Centre
+binomial authority|crustaceans|family|Balanidae
+death cause|people|country of citizenship|United States
+mammals|family|Ape
+office holders|restingplace|governing body|National Park Service
 municipality
-past members, The Conglomerate (American group), musical band, Take Me There (Blackstreet & Ma song)
+past members|The Conglomerate (American group)|musical band|Take Me There (Blackstreet & Ma song)
 notable work
-military unit, garrison, Arlington County, Virginia, garrison, The Pentagon
-product, companies, product, United States dollar
+military unit|garrison|Arlington County, Virginia|garrison|The Pentagon
+product|companies|product|United States dollar
 launch site
-american football players, former teams, Carolina Panthers, Indianapolis Colts
-mammals, phylum, Chordate, order (taxonomy), Diprotodontia
+american football players|former teams|Carolina Panthers|Indianapolis Colts
+mammals|phylum|Chordate|order (taxonomy)|Diprotodontia
 music composer
-cities, sea, outflow, Aegean Sea
-PLACE OF DEATH, office holder, predecessor, Marco Aurelio Robles
-musical artist, associated musical artists, Africa '70 (band), Tony Allen (musician)
-Kulim, assembly, Hyundai Lavita
+cities|sea|outflow|Aegean Sea
+PLACE OF DEATH|office holder|predecessor|Marco Aurelio Robles
+musical artist|associated musical artists|Africa '70 (band)|Tony Allen (musician)
+Kulim|assembly|Hyundai Lavita
 programme format
 co-founder
-Essex, Ceremonial County, West Tilbury
-participant in conflict, military people, battles, SFOR
-scientist, academic advisor, doctoral students, Alexius Meinong
+Essex|Ceremonial County|West Tilbury
+participant in conflict|military people|battles|SFOR
+scientist|academic advisor|doctoral students|Alexius Meinong
 location city
-homeport, INS Viraat (R22), serving railway line, Daund Junction railway station
-river, Hudson Highlands State Park, river, Troy, New York
-institution, Erica Frank, manager club, Ivan Toplak
-movies, film director, Orson Welles
-borough, Duddeston railway station, Bordesley railway station
-Parliamentary republic, government type, Mauritius
-performer, album, subsequent work, Willie Nelson and Family
-birthplace, Ludovic Boi, official residence, Fernando Augustin
-producer, album, album, Eclipse (song)
-political parties, leader, official residence, Prime Minister's House (Colombo)
-award, scientists, alma mater, National and Kapodistrian University of Athens
-fictional characters, series, executive producer, Ricky Gervais
-Oktoc, Mississippi, high school, Jerry Rice
-bridge over, bridges, design, Cable-stayed bridge
-Islam, government type, North Caucasian Emirate
-television shows, theme music composer, Ron Grainer
-influences, writer, writer, The Shooting of Dan McGrew (1924 film)
-settlement, leader name, Raymond Johansen
-location of birth, Gloria Schaffer, contained within, Newington, Connecticut
-plays for, ice hockey players, position, Defenceman
-river, source region, settlement type, Provinces of Zambia
-scientists, known for, Manhattan Project
-Foods, type, main ingredient, Flour
-denomination, office holder, constituency, Jadavpur (Lok Sabha constituency)
-region, school, rival, Somerset, Massachusetts
-key people, Clinton Foundation, president, Jim Sasser
-debutteam, gridiron football player, highschool, Red Lion Area School District
-person, works at, Open Society Foundations, wife, Susan Weber Soros
-bridge over, bridges, carries, Motor vehicle
-fictional character, sculptor, Josh Friedman, portrayer, Terminator 3: Rise of the Machines
+homeport|INS Viraat (R22)|serving railway line|Daund Junction railway station
+river|Hudson Highlands State Park|river|Troy, New York
+institution|Erica Frank|manager club|Ivan Toplak
+movies|film director|Orson Welles
+borough|Duddeston railway station|Bordesley railway station
+Parliamentary republic|government type|Mauritius
+performer|album|subsequent work|Willie Nelson and Family
+birthplace|Ludovic Boi|official residence|Fernando Augustin
+producer|album|album|Eclipse (song)
+political parties|leader|official residence|Prime Minister's House (Colombo)
+award|scientists|alma mater|National and Kapodistrian University of Athens
+fictional characters|series|executive producer|Ricky Gervais
+Oktoc, Mississippi|high school|Jerry Rice
+bridge over|bridges|design|Cable-stayed bridge
+Islam|government type|North Caucasian Emirate
+television shows|theme music composer|Ron Grainer
+influences|writer|writer|The Shooting of Dan McGrew (1924 film)
+settlement|leader name|Raymond Johansen
+location of birth|Gloria Schaffer|contained within|Newington, Connecticut
+plays for|ice hockey players|position|Defenceman
+river|source region|settlement type|Provinces of Zambia
+scientists|known for|Manhattan Project
+Foods|type|main ingredient|Flour
+denomination|office holder|constituency|Jadavpur (Lok Sabha constituency)
+region|school|rival|Somerset, Massachusetts
+key people|Clinton Foundation|president|Jim Sasser
+debutteam|gridiron football player|highschool|Red Lion Area School District
+person|works at|Open Society Foundations|wife|Susan Weber Soros
+bridge over|bridges|carries|Motor vehicle
+fictional character|sculptor|Josh Friedman|portrayer|Terminator 3: Rise of the Machines
 champion
-base currency, French Southern and Antarctic Lands, Kerguelen Islands
-founded, trade union, affiliation, Amalgamated Association of Iron and Steel Workers
-leader, United States House of Representatives elections, 1788 and 1789, appointer, John Drayton
-Chordate, phylum, Fox
-scientists, medals, Royal Society
-office holder, vice president, John Adams
+base currency|French Southern and Antarctic Lands|Kerguelen Islands
+founded|trade union|affiliation|Amalgamated Association of Iron and Steel Workers
+leader|United States House of Representatives elections, 1788 and 1789|appointer|John Drayton
+Chordate|phylum|Fox
+scientists|medals|Royal Society
+office holder|vice president|John Adams
 placeofburial
-Henry Knox, notable commander, Continental Artillery Regiment
+Henry Knox|notable commander|Continental Artillery Regiment
 commander
-Coffee, industry, Baker's Dozen Donuts
+Coffee|industry|Baker's Dozen Donuts
 field
-fictional character, family, Padm Amidala
-authors, Google Web Toolkit, PlayN
-writer, singles, recorded in, London
-automobile platform, automobiles, automobile platform, Dodge
-combatant, military conflicts, combatant, Choctaw
-doctoral students, scientists, prizes, National Medal of Science
-venerated in, saint, relative, Moses
+fictional character|family|Padm Amidala
+authors|Google Web Toolkit|PlayN
+writer|singles|recorded in|London
+automobile platform|automobiles|automobile platform|Dodge
+combatant|military conflicts|combatant|Choctaw
+doctoral students|scientists|prizes|National Medal of Science
+venerated in|saint|relative|Moses
 first aired
 city 
-Nikolai Morozov (figure skater), former coach, Stanislav Morozov
-Moscow, university, Alexandre Tichonov
+Nikolai Morozov (figure skater)|former coach|Stanislav Morozov
+Moscow|university|Alexandre Tichonov
 ground
-President, schools, president, Charles, Prince of Wales
-Buddhism, main interests, Timothy Morton
-writer, video games, has designer, Brian Moriarty
-movies, distributor, key person, Kevin Tsujihara
-associated band, Blayse, Teddy Riley
-die from, owl, kid, Stevens T. Mason
-military units, VMF-218, VMF-155
-automobile engine, successor, BMW M40
-company, product, Boeing F/A-18E/F Super Hornet, products, Boeing CH-47 Chinook
+President|schools|president|Charles, Prince of Wales
+Buddhism|main interests|Timothy Morton
+writer|video games|has designer|Brian Moriarty
+movies|distributor|key person|Kevin Tsujihara
+associated band|Blayse|Teddy Riley
+die from|owl|kid|Stevens T. Mason
+military units|VMF-218|VMF-155
+automobile engine|successor|BMW M40
+company|product|Boeing F/A-18E/F Super Hornet|products|Boeing CH-47 Chinook
 district
-developer, software, computing platform, Microsoft Expression Encoder
-official language, Ladonia (micronation), academic discipline, Probus (journal)
-territory, military conflict, commander, Louis Brire de l'Isle
-draft team, office holder, alma mater, Worcester College, Oxford
-key people, non-profit organisations, key person, Donna Shalala
-services, companies, service, Office 365
-parent, automobile, products, Edsel Villager
-associated band, Nice & Smooth, writer, Same Song (Digital Underground song)
-combatant, military conflicts, place of military conflict, Tupelo, Mississippi
-movies, cast member, born at, Scotland
-Nickname, owls, Nickname, City of Angels
-writer, plays, place, New York
-school, american football player, highschool, Memphis, Tennessee
-Composer, Motorpsycho Nitemare, subsequent work, Moondog Matinee
-language, single, previous work, To Know Him Is to Love Him
-television shows, company, owning company, Viacom (original)
-owls, youthclubs, FC Barcelona
-former team, ice hockey players, birth location, Quebec
+developer|software|computing platform|Microsoft Expression Encoder
+official language|Ladonia (micronation)|academic discipline|Probus (journal)
+territory|military conflict|commander|Louis Brire de l'Isle
+draft team|office holder|alma mater|Worcester College, Oxford
+key people|non-profit organisations|key person|Donna Shalala
+services|companies|service|Office 365
+parent|automobile|products|Edsel Villager
+associated band|Nice & Smooth|writer|Same Song (Digital Underground song)
+combatant|military conflicts|place of military conflict|Tupelo, Mississippi
+movies|cast member|born at|Scotland
+Nickname|owls|Nickname|City of Angels
+writer|plays|place|New York
+school|american football player|highschool|Memphis, Tennessee
+Composer|Motorpsycho Nitemare|subsequent work|Moondog Matinee
+language|single|previous work|To Know Him Is to Love Him
+television shows|company|owning company|Viacom (original)
+owls|youthclubs|FC Barcelona
+former team|ice hockey players|birth location|Quebec
 chancellor
 programme format
-operated by, South Side Elevated Railroad, place of birth, Arthur A. Ross
-field, scientists, alma mater, Worcester College, Oxford
-place of death, rugby player, relatives, Mark Donaldson (rugby player)
-office holder, death place, Petersen House
-Artist, television shows, opening theme, Send It On (Disney's Friends for Change song)
+operated by|South Side Elevated Railroad|place of birth|Arthur A. Ross
+field|scientists|alma mater|Worcester College, Oxford
+place of death|rugby player|relatives|Mark Donaldson (rugby player)
+office holder|death place|Petersen House
+Artist|television shows|opening theme|Send It On (Disney's Friends for Change song)
 citizen of
-owls, label, Celluloid Records
-craft, Ralph Flanders, profession, Claiborne Pell
-combatant, military conflicts, commander, Arthur St. Clair
-Chicago, owned, Monroe station (CTA Blue Line)
-former team, Martin Prochzka, Garry Unger
-awards, people, consort, Ellen  Lundström
-successor, royalties, grave at, Rome
-state, river, left tributary, Republican River
-home town, musical artists, instrument, Guitar
-denomination, presidents, military branch, Republic of Korea Army
-Pop art, movement, Andy Warhol
-musicals, music, label, Sony Music Entertainment
-person, home town, Fairmount, Indiana
-movie, movie director, Stanley Kubrick, edited by, Anthony Harvey
-binomial authority, insects, binomial authority, douard Mntries
-military person, placeofburial, St Mary's Church, Battersea
-military unit, command structures, United States Department of the Navy, United States Department of Defense
-product, companies, products, Remote Desktop Protocol
+owls|label|Celluloid Records
+craft|Ralph Flanders|profession|Claiborne Pell
+combatant|military conflicts|commander|Arthur St. Clair
+Chicago|owned|Monroe station (CTA Blue Line)
+former team|Martin Prochzka|Garry Unger
+awards|people|consort|Ellen  Lundström
+successor|royalties|grave at|Rome
+state|river|left tributary|Republican River
+home town|musical artists|instrument|Guitar
+denomination|presidents|military branch|Republic of Korea Army
+Pop art|movement|Andy Warhol
+musicals|music|label|Sony Music Entertainment
+person|home town|Fairmount, Indiana
+movie|movie director|Stanley Kubrick|edited by|Anthony Harvey
+binomial authority|insects|binomial authority|douard Mntries
+military person|placeofburial|St Mary's Church, Battersea
+military unit|command structures|United States Department of the Navy|United States Department of Defense
+product|companies|products|Remote Desktop Protocol
 buried in
 Guests
-universities, sovereign state, capital town, Oslo
-Bob Dylan, lyrics, The Times They Are a-Changin' (musical)
-religious affiliation, prime minister, military branch, Kampuchean United Front for National Salvation
-alma mater, judges, military rank, Judge Advocate General's Corps, United States Army
-airline, hubs, city-served, San Francisco
-executive producer, The Ultimate Merger, key person, Trump Productions
+universities|sovereign state|capital town|Oslo
+Bob Dylan|lyrics|The Times They Are a-Changin' (musical)
+religious affiliation|prime minister|military branch|Kampuchean United Front for National Salvation
+alma mater|judges|military rank|Judge Advocate General's Corps, United States Army
+airline|hubs|city-served|San Francisco
+executive producer|The Ultimate Merger|key person|Trump Productions
 official name
-state, bridges, style, Burr Truss
+state|bridges|style|Burr Truss
 developed by
 has child
-Brazilian jiu-jitsu, trainer, Nick Diaz
-owner, Latvian Wikipedia, Wiktionary
-person, resting place, governing body, City council
-royalties, tomb, Mausoleum of Augustus
-university, Stanford Cardinal, Jim Wylie
+Brazilian jiu-jitsu|trainer|Nick Diaz
+owner|Latvian Wikipedia|Wiktionary
+person|resting place|governing body|City council
+royalties|tomb|Mausoleum of Augustus
+university|Stanford Cardinal|Jim Wylie
 automobile platform
 animator
-movies, screenplay, location, United States
-Ceremonial County, East Tilbury, local authority, Trinity School, Brentwood
-platforms, Nord (video game), distributed by, The Beauty Inside
-country, leader name, deputy, Piotr Gliski
-Cologny, neighboring municipalities, Geneva
-creators, Jerry Seinfeld, Larry David
-television show, related, The Sarah Jane Adventures, theme music composer, Ron Grainer
+movies|screenplay|location|United States
+Ceremonial County|East Tilbury|local authority|Trinity School, Brentwood
+platforms|Nord (video game)|distributed by|The Beauty Inside
+country|leader name|deputy|Piotr Gliski
+Cologny|neighboring municipalities|Geneva
+creators|Jerry Seinfeld|Larry David
+television show|related|The Sarah Jane Adventures|theme music composer|Ron Grainer
 parent company
-saint, major shrines, Emmitsburg, Maryland, Shrine of St. Elizabeth Ann Bayley Seton
-origin, Spaghetti squash, region, Bannock (food)
-branch, Pierre R. Graham, Edwin F. Hunter
-office holders, official residence, official language, Indian English
-Paris, birthplace, Raymond Picard
-life stance, office holders, profession, Diplomacy
-Elton John, chairman, 19992000 Watford F.C. season
-publisher, Lucifer's Hammer, known for, Jo Garcia
+saint|major shrines|Emmitsburg, Maryland|Shrine of St. Elizabeth Ann Bayley Seton
+origin|Spaghetti squash|region|Bannock (food)
+branch|Pierre R. Graham|Edwin F. Hunter
+office holders|official residence|official language|Indian English
+Paris|birthplace|Raymond Picard
+life stance|office holders|profession|Diplomacy
+Elton John|chairman|19992000 Watford F.C. season
+publisher|Lucifer's Hammer|known for|Jo Garcia
 parent
-field, Jon Speelman, sport, Polytechnic University of the Philippines Taguig
-known for, people, known for, Linguistics
-location, Sverre Krogh Sundb, place of birth, Hvard Vad Petersson
-Cliff Burton, past members, Metallica
-faith, political parties, international, Muslim Brotherhood
-known for, people, birth location, New York City
-developer, software, products, Claris
-river, source, Cowombat  Flat, river mouth, Murray Mouth
-river mouth, place, source place, Lebrnik
+field|Jon Speelman|sport|Polytechnic University of the Philippines Taguig
+known for|people|known for|Linguistics
+location|Sverre Krogh Sundb|place of birth|Hvard Vad Petersson
+Cliff Burton|past members|Metallica
+faith|political parties|international|Muslim Brotherhood
+known for|people|birth location|New York City
+developer|software|products|Claris
+river|source|Cowombat  Flat|river mouth|Murray Mouth
+river mouth|place|source place|Lebrnik
 government type
-Artist, Mojo Priest, director, On Deadly Ground
-television show, channel, parent organisation, Fox Sports (United States)
-commander, Invasion of Buwat, known for, Fatimah bint Sa'd
-ground, soccer club seasons, club manager, Caio  Zanardi
-country, language, Languages of Ethiopia
-Band, past memberss, Kevin Jonas, Joe Jonas
-people, life stance, Scientology
-fictional characters, species, Human
+Artist|Mojo Priest|director|On Deadly Ground
+television show|channel|parent organisation|Fox Sports (United States)
+commander|Invasion of Buwat|known for|Fatimah bint Sa'd
+ground|soccer club seasons|club manager|Caio  Zanardi
+country|language|Languages of Ethiopia
+Band|past memberss|Kevin Jonas|Joe Jonas
+people|life stance|Scientology
+fictional characters|species|Human
 Recorded
-television shows, network, headquarters, New York
-Sony, distributing label, StandBy Records
-networks, BBC One, BBC HD
-tenants, stadia, Location, Canada
-awarded, writer, film director, Chicken Run
-territory, Sino-French War, battles, Raoul Magrin-Vernerey
+television shows|network|headquarters|New York
+Sony|distributing label|StandBy Records
+networks|BBC One|BBC HD
+tenants|stadia|Location|Canada
+awarded|writer|film director|Chicken Run
+territory|Sino-French War|battles|Raoul Magrin-Vernerey
 outflow
-John Byrne (comics), creators, Emma Frost
-Heinrich Himmler, notable commanders, Army Group Oberrhein (Germany)
-universities, land, official language, Norwegian language
+John Byrne (comics)|creators|Emma Frost
+Heinrich Himmler|notable commanders|Army Group Oberrhein (Germany)
+universities|land|official language|Norwegian language
 incumbent
-parent company, automobile, assembly, Karachi
-company, founded by, Fusajiro Yamauchi, services, Nintendo eShop
-sovereign state, seas, cities, Cuman
-country, largest city, Tirana
-citizenship, entomologist, binomial authority, Western pygmy blue
+parent company|automobile|assembly|Karachi
+company|founded by|Fusajiro Yamauchi|services|Nintendo eShop
+sovereign state|seas|cities|Cuman
+country|largest city|Tirana
+citizenship|entomologist|binomial authority|Western pygmy blue
 headquarters
-scientist, advisor, John Robert Woodyard
-launch site, Juno I, ground, 2016 Fort Lauderdale Strikers season
-wife, Penny Lancaster, Alana Stewart
-affiliation, International Union of Anarchists
-alma mater, scientist, PhD advisor, Jean-Claude Latombe
-people, official residence, Wilton, Connecticut
-Location, Peetz Table Wind Energy Center, state, Ben Nighthorse Campbell
-inflows, North Sea
+scientist|advisor|John Robert Woodyard
+launch site|Juno I|ground|2016 Fort Lauderdale Strikers season
+wife|Penny Lancaster|Alana Stewart
+affiliation|International Union of Anarchists
+alma mater|scientist|PhD advisor|Jean-Claude Latombe
+people|official residence|Wilton, Connecticut
+Location|Peetz Table Wind Energy Center|state|Ben Nighthorse Campbell
+inflows|North Sea
 First Driver
-series, books, publisher, Bantam Spectra
-Location, radio station, sister stations, Al  Arabiya 99
-prime minister, Graham Richardson, Bob McMullan
-product, companies, Location, Tehran
-pastteams, Charlie Justice (American football player), Bobby Hoppe
-office holder, associate, Marcus Calpurnius Bibulus, children, Augustus
-affiliation, Indian general election, 2004 (Delhi), Indian general election, 2004 (Andhra Pradesh)
-person, board, Trinity House
-leaders, Willem-Alexander of the Netherlands, Fredis Refunjol
-honours, race horses, grandsire, Sundridge (horse)
-river, source region, North-Western Province, Zambia, river mouth, Indian Ocean
-first team, Grand Prixes, Location, Watkins Glen, New York
-movie, screenplay, Akiva Goldsman, directed by, Joel Schumacher
-ethnicity, Linda Hogan, state of origin, Holmes Colbert
+series|books|publisher|Bantam Spectra
+Location|radio station|sister stations|Al  Arabiya 99
+prime minister|Graham Richardson|Bob McMullan
+product|companies|Location|Tehran
+pastteams|Charlie Justice (American football player)|Bobby Hoppe
+office holder|associate|Marcus Calpurnius Bibulus|children|Augustus
+affiliation|Indian general election, 2004 (Delhi)|Indian general election, 2004 (Andhra Pradesh)
+person|board|Trinity House
+leaders|Willem-Alexander of the Netherlands|Fredis Refunjol
+honours|race horses|grandsire|Sundridge (horse)
+river|source region|North-Western Province, Zambia|river mouth|Indian Ocean
+first team|Grand Prixes|Location|Watkins Glen, New York
+movie|screenplay|Akiva Goldsman|directed by|Joel Schumacher
+ethnicity|Linda Hogan|state of origin|Holmes Colbert
 athletics
-nearest city, Lake Victoria
-Festival Records, distributing label, Greasy Pop Records
-baseball team, club manager, debut team, Houston Astros
+nearest city|Lake Victoria
+Festival Records|distributing label|Greasy Pop Records
+baseball team|club manager|debut team|Houston Astros
 nearest city
-Chordate, phylum, Sloth
-operator, New Sanno Hotel, shareholder, Naval Air Facility Adak
-awards, people, awards, Golden Globe Award
-allegiance, John Kotelawala, sovereign state, Sanath Weerakoon
-television shows, network, sister names, N-tv
-country, national anthem, God Defend New Zealand
-river mouth, rivers, source country, Zambia
-government type, Kumta, affiliation, Indian general election, 2004 (Andhra Pradesh)
-boards, Royal Society, Trinity House
-buried in, monarch, predecessor, Iyasu II
-deathplace, saints, beatified by, Pope Pius X
-life stance, fictional character, relative, Meadow Soprano
-headquarters, public transit system, owning organisation, Target Field (Metro Transit station)
+Chordate|phylum|Sloth
+operator|New Sanno Hotel|shareholder|Naval Air Facility Adak
+awards|people|awards|Golden Globe Award
+allegiance|John Kotelawala|sovereign state|Sanath Weerakoon
+television shows|network|sister names|N-tv
+country|national anthem|God Defend New Zealand
+river mouth|rivers|source country|Zambia
+government type|Kumta|affiliation|Indian general election, 2004 (Andhra Pradesh)
+boards|Royal Society|Trinity House
+buried in|monarch|predecessor|Iyasu II
+deathplace|saints|beatified by|Pope Pius X
+life stance|fictional character|relative|Meadow Soprano
+headquarters|public transit system|owning organisation|Target Field (Metro Transit station)
 nationality
-president, lieutenant, Winston Bryant
-associated band, musical artist, Artist, My Favorite Girl (Dave Hollister song)
+president|lieutenant|Winston Bryant
+associated band|musical artist|Artist|My Favorite Girl (Dave Hollister song)
 subject
-label, Next Thing, parent organisation, GetTV
-tenant, stadia, architect, Populous (company)
-route end, NorthSouth Transport Corridor, Mumbai Vadodara Expressway
-Colorado, placeofburial, Albert P. Clark
-hockey team, head coach, Bill Peters (ice hockey)
-faith, office holders, alma mater, Ananda College
-played for, Wilfred McDonald, Cam Plante
-television shows, network, stockholder, Warner Bros. Television
-television show, judges, Randy Jackson, channel, Fox Broadcasting Company
-software, programming language, C++, operating system, Microsoft Windows
+label|Next Thing|parent organisation|GetTV
+tenant|stadia|architect|Populous (company)
+route end|NorthSouth Transport Corridor|Mumbai Vadodara Expressway
+Colorado|placeofburial|Albert P. Clark
+hockey team|head coach|Bill Peters (ice hockey)
+faith|office holders|alma mater|Ananda College
+played for|Wilfred McDonald|Cam Plante
+television shows|network|stockholder|Warner Bros. Television
+television show|judges|Randy Jackson|channel|Fox Broadcasting Company
+software|programming language|C++|operating system|Microsoft Windows
 city
-organisations, location, language, Spanish language
-combatant, Northwest Indian War, ethnic group, Linda Hogan
-airlines, target airport, Gimhae International Airport
+organisations|location|language|Spanish language
+combatant|Northwest Indian War|ethnic group|Linda Hogan
+airlines|target airport|Gimhae International Airport
 parent organisation
-owls, archipelago, largest city, Papeete
-draft team, Dave Bing, Ron Reed
-settlements, province, Metropolitan City of Venice
-recorded in, Live in Detroit, MI, place of birth, Bodhin Kjolhede
-alma mater, judges, military rank, Judge Advocate General's Corps, United States Army
-person, relation, Anne Spielberg
+owls|archipelago|largest city|Papeete
+draft team|Dave Bing|Ron Reed
+settlements|province|Metropolitan City of Venice
+recorded in|Live in Detroit, MI|place of birth|Bodhin Kjolhede
+alma mater|judges|military rank|Judge Advocate General's Corps, United States Army
+person|relation|Anne Spielberg
 city
 ideology
-manufacturer, automobile, designer company, NASA
-order, Henry Clay, profession, William Luther Hill
-television show, theme music composer, Ron Grainer, related, Class (2016 TV series)
-life stance, ethnic groups, related, Micronesia
-river, mouth mountain, Southend-on-Sea, mouth place, Essex
-venue, Indy PopCon, PLACE OF DEATH, Louis LeCocq
-film genre, software, license, GNU General Public License
-Christchurch, largest city, South Island
+manufacturer|automobile|designer company|NASA
+order|Henry Clay|profession|William Luther Hill
+television show|theme music composer|Ron Grainer|related|Class (2016 TV series)
+life stance|ethnic groups|related|Micronesia
+river|mouth mountain|Southend-on-Sea|mouth place|Essex
+venue|Indy PopCon|PLACE OF DEATH|Louis LeCocq
+film genre|software|license|GNU General Public License
+Christchurch|largest city|South Island
 leader
-administrative region, mayor, Giorgos Kaminis
+administrative region|mayor|Giorgos Kaminis
 headquarters
-character name, comics characters, creators, Frank Miller (comics)
-fictional character, portrayer, Terminator 2: Judgment Day, painters, Josh Friedman
-born in, chef, narrator, Spain... on the Road Again
-AMC Gremlin, engine, Volkswagen
-movie, narrator, Trevor Peacock, music, Christophe Beck
-alma mater, scientist, doctoral supervisor, Leonard Lerman
-region, Foods, Quick bread
-sea, citiess, Gdask, Oulu
-river, source place, Australian Alps
-venues, located at street address, leader, John Roberts
+character name|comics characters|creators|Frank Miller (comics)
+fictional character|portrayer|Terminator 2: Judgment Day|painters|Josh Friedman
+born in|chef|narrator|Spain... on the Road Again
+AMC Gremlin|engine|Volkswagen
+movie|narrator|Trevor Peacock|music|Christophe Beck
+alma mater|scientist|doctoral supervisor|Leonard Lerman
+region|Foods|Quick bread
+sea|citiess|Gdask|Oulu
+river|source place|Australian Alps
+venues|located at street address|leader|John Roberts
 venue
-office holder, allegiance, capital town, Jamestown, Virginia
-boxer, employment, House of Representatives of the Philippines
-comics characters, creators, Joe Shuster
-music genre, conventions, location, Rosemont, Illinois
-cities, body of water, river mouth, Duwamish River
-Governor, Winston Bryant, President, Joseph Stiglitz
-leader, government agencies, jurisdiction, German-occupied Europe
-place, plays, writer, Robert Schenkkan
-president, congressman, successor, Simon  Ferro
-military people, battles, World War I
-appointer, John Drayton, William Clark
-operator, New Sanno Hotel, governing body, Oahu Railway and Land Company
-office holder, predecessor, Alexander Downer, deputy, Neil Brown (Australian politician)
+office holder|allegiance|capital town|Jamestown, Virginia
+boxer|employment|House of Representatives of the Philippines
+comics characters|creators|Joe Shuster
+music genre|conventions|location|Rosemont, Illinois
+cities|body of water|river mouth|Duwamish River
+Governor|Winston Bryant|President|Joseph Stiglitz
+leader|government agencies|jurisdiction|German-occupied Europe
+place|plays|writer|Robert Schenkkan
+president|congressman|successor|Simon  Ferro
+military people|battles|World War I
+appointer|John Drayton|William Clark
+operator|New Sanno Hotel|governing body|Oahu Railway and Land Company
+office holder|predecessor|Alexander Downer|deputy|Neil Brown (Australian politician)
 predecessor
-writer, albums, Next album, Pirates of the Caribbean: Dead Man's Chest (soundtrack)
-series, book, subsequent work, Blade Runner 2: The Edge of Human
-location city, american football Team, former team, David Bowens
-Anne Hidalgo, mayor, Paris
-country of citizenship, model, die from, Suicide by hanging
-Ministry of Railways (India), owning organisation, Vadodara Junction railway station
-birth place, Mishal Raheja, Location, New India Assurance
-television shows, theme music composer, record label, ATO Records
-Playboy Playmate, succeeded, List of Playboy Playmates of 1954
-used money, administrative regions, national anthem, La Marseillaise
+writer|albums|Next album|Pirates of the Caribbean: Dead Man's Chest (soundtrack)
+series|book|subsequent work|Blade Runner 2: The Edge of Human
+location city|american football Team|former team|David Bowens
+Anne Hidalgo|mayor|Paris
+country of citizenship|model|die from|Suicide by hanging
+Ministry of Railways (India)|owning organisation|Vadodara Junction railway station
+birth place|Mishal Raheja|Location|New India Assurance
+television shows|theme music composer|record label|ATO Records
+Playboy Playmate|succeeded|List of Playboy Playmates of 1954
+used money|administrative regions|national anthem|La Marseillaise
 relatives
-Latin, official language, Sovereign Military Order of Malta
-office, Blanche Bruce, John Franklin Miller (senator)
-american football player, debutteam, Chicago Bears, former team, 1998 Baltimore Ravens season
-river, source country, Zambia, source location, Ikelenge  District
-Ford Motor Company, owning organisation, Ford Kansas City Assembly Plant
-fields, Paul Demiville, faith, Koay Teng Hai
+Latin|official language|Sovereign Military Order of Malta
+office|Blanche Bruce|John Franklin Miller (senator)
+american football player|debutteam|Chicago Bears|former team|1998 Baltimore Ravens season
+river|source country|Zambia|source location|Ikelenge  District
+Ford Motor Company|owning organisation|Ford Kansas City Assembly Plant
+fields|Paul Demiville|faith|Koay Teng Hai
 institution
-movies, writer, Monty Python
-cover artist, The Adventures of Tom Sawyer, writer, Mark Twain Tonight
-scientist, academic advisor, Karl Ewald Hasse, supervisor, Georg Meissner
-official residence, photographer, known for, National Geographic (magazine)
-scientist, doctoral supervisor, Georg Meissner
-Stan Lee, writers, Tales of Suspense
-homeport, Trishna (yacht), INS Viraat (R22)
-United States Department of Defense, command structure, United States Navy
-book, publisher, Francisco de Robles, writers, Miguel de Cervantes
-authority, school, mascot, Penguin
-state, stream, mouth location, Eugene T. Mahoney State Park
-deathplace, Jaime Bateman Cayn, sovereign state, Hornito, Chiriqu
-television show, judges, Harry Connick, Jr., presenter, Ryan Seacrest
+movies|writer|Monty Python
+cover artist|The Adventures of Tom Sawyer|writer|Mark Twain Tonight
+scientist|academic advisor|Karl Ewald Hasse|supervisor|Georg Meissner
+official residence|photographer|known for|National Geographic (magazine)
+scientist|doctoral supervisor|Georg Meissner
+Stan Lee|writers|Tales of Suspense
+homeport|Trishna (yacht)|INS Viraat (R22)
+United States Department of Defense|command structure|United States Navy
+book|publisher|Francisco de Robles|writers|Miguel de Cervantes
+authority|school|mascot|Penguin
+state|stream|mouth location|Eugene T. Mahoney State Park
+deathplace|Jaime Bateman Cayn|sovereign state|Hornito, Chiriqu
+television show|judges|Harry Connick, Jr.|presenter|Ryan Seacrest
 resting place
-arena, WPC Dynamo Moscow, location of death, Tigran Petrosian
+arena|WPC Dynamo Moscow|location of death|Tigran Petrosian
 nearest city
-military conflicts, commander, primeminister, Choi  Tu-son
+military conflicts|commander|primeminister|Choi  Tu-son
 meaning
-saints, venerateds in, Judaism, Islam
-former team, ice hockey players, former team, American Hockey League
-edited by, Easy Street (film), Work (film)
-school, rugby players, school, Pietermaritzburg
+saints|venerateds in|Judaism|Islam
+former team|ice hockey players|former team|American Hockey League
+edited by|Easy Street (film)|Work (film)
+school|rugby players|school|Pietermaritzburg
 office
