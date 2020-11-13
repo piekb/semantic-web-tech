@@ -85,8 +85,8 @@ for j, query in enumerate(queries):
     for w in correct_queries[j].split(" "):
         if "http://dbpedia.org/" in w:            
             new_list.append(w.split("/")[-1].split(">")[0])
-    #print("Correct entities: ", "|".join(new_list))
-    #print(terms)
+    # print("Correct entities: ", "|".join(new_list))
+    # print(terms)
 
     # Structure new query based on terms found in encoded query
     new_query_list = []
@@ -127,18 +127,17 @@ for j, query in enumerate(queries):
     queries_noent.append(new_query)
 
 
-
-#nested loops for substituting the _blank_s for NEs
+# nested loops for substituting the _blank_s for NEs
 for query_no in range(len(queries_noent)):
-    #if the no. of _blank_s in query is equal to number of NEs
+    # if the no. of _blank_s in query is equal to number of NEs
     if len(re.findall("INSERT_ENTITY", queries_noent[query_no])) <= len(ents[query_no]): 
         combinations = list(itertools.permutations(ents[query_no], len(re.findall("INSERT_ENTITY", queries_noent[query_no]))))
         for ne_comb_no in range(len(combinations)):
-            comb = combinations[ne_comb_no] #extract the combination
-            subquery = queries_noent[query_no] #extract the i-th query
-            #for every 'INSERT_ENTITY'
+            comb = combinations[ne_comb_no]  # extract the combination
+            subquery = queries_noent[query_no]  # extract the i-th query
+            # for every 'INSERT_ENTITY'
             for ne_no in range(len(comb)):
-                subquery = re.sub("INSERT_ENTITY", comb[ne_no], subquery, 1) #substitute I_E for NEs
+                subquery = re.sub("INSERT_ENTITY", comb[ne_no], subquery, 1)  # substitute I_E for NEs
             f_sparql_queries.write(subquery + "\n")
         f_sparql_queries.write("-" + "\n")   # TODO: some other separator so extraction is easier?
     else:

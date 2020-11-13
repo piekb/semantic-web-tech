@@ -7,11 +7,11 @@ sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 sparql.setReturnFormat(JSON)
 
 #read in the NN-translated queries
-queryFile = open('test-correct-sparql.txt', 'r', encoding = 'utf-8') 
+queryFile = open('test-correct-sparql.txt', 'r', encoding='utf-8')
 queries = queryFile.readlines() 
 queryFile.close()
 
-outputFile = open("answers-test.txt","w+")
+outputFile = open("answers-test.txt", "w+")
 
 #take every query and find the answer
 for queryNo in range(len(queries)):

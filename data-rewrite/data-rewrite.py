@@ -23,7 +23,7 @@ for n in file_names:
         f_questions = open(output_folder + base_name + "-questions.txt", "a")
         f_named_entities = open(output_folder + base_name + "-named-entities.txt", "a")
         f_queries = open(output_folder + base_name + "-queries.txt", "a")
-        # corrected_queries is used for development of make_query.py
+        # corrected_queries is used for development of make_query_random.py
         f_correct_queries = open(output_folder + base_name + "-correct-sparql.txt", "a")
 
         # Save named entities and replace them in original questions
