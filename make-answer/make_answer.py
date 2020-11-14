@@ -39,7 +39,7 @@ for answerInd in answer_indices:
     for queryInd in range(start_ind, stop_ind):
         sparqlQuery = queries[queryInd]
         if sparqlQuery == hyphen:
-            outputFile.write('-\n')
+            outputFile.write("question " + str(answerInd))
         elif sparqlQuery == error_msg:
             outputFile.write('NO ANSWER DUE TO LACK OF QUERIES\n')
         else:
