@@ -2,66 +2,86 @@
 {'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
 {'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
 {'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+-
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+-
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+-
+NO ANSWER DUE TO LACK OF QUERIES
+-
 {'head': {'link': []}, 'boolean': False}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': []}, 'boolean': False}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}
-{'head': {'link': []}, 'boolean': False}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': []}, 'boolean': False}
-{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
 {'head': {'link': []}, 'boolean': False}
 {'head': {'link': []}, 'boolean': False}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '166'}}]}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
 {'head': {'link': []}, 'boolean': False}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
 {'head': {'link': []}, 'boolean': False}
+{'head': {'link': []}, 'boolean': False}
+-
 {'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
 {'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
 {'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
@@ -71,7 +91,79 @@
 {'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
 {'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
 {'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}
 {'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+-
+NO ANSWER DUE TO LACK OF QUERIES
+-
+NO ANSWER DUE TO LACK OF QUERIES
+-
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
 {'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
