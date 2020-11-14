@@ -1,169 +1,171 @@
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
--
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
--
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
 -
 NO ANSWER DUE TO LACK OF QUERIES
 -
-{'head': {'link': []}, 'boolean': False}
-{'head': {'link': []}, 'boolean': False}
-{'head': {'link': []}, 'boolean': False}
-{'head': {'link': []}, 'boolean': False}
-{'head': {'link': []}, 'boolean': False}
-{'head': {'link': []}, 'boolean': False}
+b"{'head': {'link': []}, 'boolean': False}"
+b"{'head': {'link': []}, 'boolean': False}"
+b"{'head': {'link': []}, 'boolean': False}"
+b"{'head': {'link': []}, 'boolean': False}"
+b"{'head': {'link': []}, 'boolean': False}"
+b"{'head': {'link': []}, 'boolean': False}"
 -
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+-
+b"{'head': {'link': []}, 'boolean': False}"
+b"{'head': {'link': []}, 'boolean': False}"
+b"{'head': {'link': []}, 'boolean': False}"
+b"{'head': {'link': []}, 'boolean': False}"
+b"{'head': {'link': []}, 'boolean': False}"
+b"{'head': {'link': []}, 'boolean': False}"
 -
 NO ANSWER DUE TO LACK OF QUERIES
 -
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+-
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+-
 NO ANSWER DUE TO LACK OF QUERIES
 -
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
-{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+-
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+-
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+-
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"
+b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': []}}"

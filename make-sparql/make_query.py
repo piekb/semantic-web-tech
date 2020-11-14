@@ -75,6 +75,7 @@ correct_queries = f_correct_queries.read().splitlines()  # to avoid \n being see
 
 # Files to write something to
 f_sparql_queries = open(output_folder + "sparql-queries-bf.txt", "a")
+f_sparql_queries.write("-" + "\n")
 
 for j, query in enumerate(queries):
     # Make URI terms out of named entities, and compare to correct terms for debugging

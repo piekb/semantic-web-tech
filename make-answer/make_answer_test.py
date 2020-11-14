@@ -1,6 +1,7 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 import re 
 import json
+import sys
 
 #set the sparql wrapper for dbpedia
 sparql = SPARQLWrapper("http://dbpedia.org/sparql")
@@ -16,11 +17,14 @@ outputFile = open("answers-test.txt", "w+")
 #take every query and find the answer
 for queryNo in range(len(queries)):
     sparqlQuery = queries[queryNo]
-    sparqlQuery = re.sub('\\n$', '', sparqlQuery) #remove end of line character
+    sparqlQuery = re.sub(' _', '_', sparqlQuery)
+    sparqlQuery = re.sub(' >', '>', sparqlQuery)
+    sparqlQuery = re.sub('\\n$', '', sparqlQuery).encode('utf-8', "ignore") #remove end of line character
     print(str(queryNo/len(queries)*100)+'%')
     sparql.setQuery(sparqlQuery)
     results = sparql.query().convert()
-    outputFile.write(str(results)+'\n').encode('utf8')
+    results = str(results).encode(sys.stdout.encoding, errors='replace')
+    outputFile.write(str(results)+'\n')
     
 
     
