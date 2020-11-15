@@ -91,7 +91,7 @@ for answerInd in answer_indices:
         correctAnswers.write('model answer: ' + str(mode(answers)) + '\ntest answer: ' + str(answers_test[answerInd]) + '\n')
 
 
-outputFile.write(str(correct_counter/len(answer_indices)) + "% of answers correct")
+outputFile.write(str(correct_counter/len(answer_indices)*100) + "% of answers correct")
 print(correct_counter)
 
 outputFile.close()
