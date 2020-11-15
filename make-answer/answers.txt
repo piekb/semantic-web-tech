@@ -1934,4 +1934,4 @@ question 996
 model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
 test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '7547'}}]}}"
 
-0.0%% of answers correct
+0.22727272727272727% of answers correct

@@ -1,0 +1,440 @@
+question 14
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 31
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 32
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 40
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 41
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 47
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 63
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 64
+model answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Stanford_University'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Stanford_University'}}]}}"
+
+question 73
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 87
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 92
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 94
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 97
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 108
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 118
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 119
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 122
+model answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Jared_Kushner'}}, {'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Marc_Kushner'}}, {'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Ivanka_Trump'}}, {'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Murray_Kushner'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Jared_Kushner'}}, {'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Marc_Kushner'}}, {'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Ivanka_Trump'}}, {'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Murray_Kushner'}}]}}"
+
+question 131
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 132
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 142
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 167
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 171
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 176
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 200
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 206
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 209
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 212
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 229
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 233
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 235
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 267
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 272
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 273
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 282
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 285
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 321
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 344
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 348
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 371
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 383
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 386
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 388
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 401
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 402
+model answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/United_States_Navy'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/United_States_Navy'}}]}}"
+
+question 413
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 420
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 421
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 431
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 441
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 451
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 494
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 513
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 515
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 525
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 534
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 550
+model answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Asia'}}, {'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Australia'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Asia'}}, {'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Australia'}}]}}"
+
+question 554
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 573
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 576
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 578
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 581
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 586
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 615
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 619
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 622
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 628
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 636
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 665
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 672
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 677
+model answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Stanford_University'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Stanford_University'}}]}}"
+
+question 678
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 680
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 687
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 688
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 703
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 709
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 721
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 727
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 730
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 740
+model answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Latin'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Latin'}}]}}"
+
+question 743
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 750
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 767
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 768
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 775
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 776
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 785
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 786
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 790
+model answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Donald_Trump'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Donald_Trump'}}]}}"
+
+question 792
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 806
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 814
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 822
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 823
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 838
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 839
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 841
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 845
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 846
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 858
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 862
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 867
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 877
+model answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Chickasaw'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['uri']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'uri': {'type': 'uri', 'value': 'http://dbpedia.org/resource/Chickasaw'}}]}}"
+
+question 883
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 903
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 934
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 937
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 951
+model answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+test answer: b"{'head': {'link': [], 'vars': ['callret-0']}, 'results': {'distinct': False, 'ordered': True, 'bindings': [{'callret-0': {'type': 'typed-literal', 'datatype': 'http://www.w3.org/2001/XMLSchema#integer', 'value': '0'}}]}}"
+
+question 982
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
+question 984
+model answer: b"{'head': {'link': []}, 'boolean': False}"
+test answer: b"{'head': {'link': []}, 'boolean': False}"
+
