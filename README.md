@@ -15,6 +15,8 @@ Scripts should be run separately, in the following order. Please cd to the corre
 7. make-answer/extract_functional_queries.py
 8. make-answer/make_answer.py
 
+Before running data_rewrite.py, please delete the output folder in the data-rewrite folder, since the script makes it. 
+
 ## File overview
 `data-rewrite` contains two subfolders: input and output. The input folder contains the original dataset. The Python file in there takes these files, applies the pre-processing and spits out data in several files in the output folder.
 
