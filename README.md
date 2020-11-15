@@ -11,7 +11,9 @@ Scripts should be run separately, in the following order. Please cd to the corre
 3. model/onmt_train.sh
 4. model/onmt_translate.sh
 5. make-sparql/make_sparql.py
-6. make-answer/make_answer.py
+6. make-answer/make_answer_test.py
+7. make-answer/extract_functional_queries.py
+8. make-answer/make_answer.py
 
 ## File overview
 `data-rewrite` contains two subfolders: input and output. The input folder contains the original dataset. The Python file in there takes these files, applies the pre-processing and spits out data in several files in the output folder.
@@ -20,7 +22,7 @@ Scripts should be run separately, in the following order. Please cd to the corre
 
 `make-sparql` contains a folder "result" with the SPARQL queries used for the brute force algorithm in `make-answer`. The file make_query.py is the script to run. It takes as input the lists of entities from data-rewrite/output, and the predicted encoded queries from model/data, and outputs the possible decoded queries to the result folder.
 
-`make-answer` contains... The file "answers.txt" contains the numbers of the 484 answerable questions, along with their answers according to the model and what they should be. The file "correct-answers.txt" shows the same, but only for the 110 correctly answered questions. 
+`make-answer` contains: The file "answers.txt" with the numbers of the 484 answerable questions, along with their answers according to the model and what they should be. The file "correct-answers.txt" shows the same, but only for the 110 correctly answered questions; answers-test.txt contains the answers to the test queries; functional-queries-ind.txt represents the indices of the functional queries within the test subset; sparql-queries.txt and test-correct-sparql.txt are input files.
 
 ### OpenNMT Documentation
 https://opennmt.net/OpenNMT-py/
