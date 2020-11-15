@@ -20,7 +20,7 @@ Scripts should be run separately, in the following order. Please cd to the corre
 
 `make-sparql` contains a folder "result" with the SPARQL queries used for the brute force algorithm in `make-answer`. The file make_query.py is the script to run. It takes as input the lists of entities from data-rewrite/output, and the predicted encoded queries from model/data, and outputs the possible decoded queries to the result folder.
 
-`make-answer` contains..
+`make-answer` contains... The file "answers.txt" contains the numbers of the 484 answerable questions, along with their answers according to the model and what they should be. The file "correct-answers.txt" shows the same, but only for the 110 correctly answered questions. 
 
 ### OpenNMT Documentation
 https://opennmt.net/OpenNMT-py/
